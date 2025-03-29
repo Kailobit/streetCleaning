@@ -1,9 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import * as L from 'leaflet';
-import { DataManagerService } from '../../services/data-manager.service';
 import { environment } from '../../../environments/environment';
 import { LocalDataRetrieverService } from '../../services/localDataRetriever.service';
-import { AliaService } from '../../services/alia.service';
 
 @Component({
   selector: 'app-map',
@@ -15,9 +13,7 @@ export class MapComponent implements OnInit {
   private map: any;
 
   constructor(
-    private dataManagerService: DataManagerService,
     private localDataRetrieverService: LocalDataRetrieverService,
-    private aliaService: AliaService
   ) {}
 
   ngOnInit(): void {
@@ -31,30 +27,11 @@ export class MapComponent implements OnInit {
         attribution: '&copy; OpenStreetMap contributors'
       }).addTo(this.map);
 
-      this.dataManagerService.downloadAbstractStreetData(environment.municipality);
-
-      /* this.dataManagerService.downloadGeometryStreetData(); */
-
-      /* this.caricaTrattiColorati(); */
-
-      /* this.drawEverything(); */
-
-      /* this.aliaService.getStreets(environment.municipality).subscribe() */
+      
     });
   }
 
-  private drawEverything(): void {
-    this.localDataRetrieverService.getGeometryStreetData().subscribe(geometryStreetData => {
-      for (const street of geometryStreetData) {
-        for (const stretch of street.geometryStretches) {
-          const coords = stretch.geometry.map(coord => [coord.lat, coord.lon]) as L.LatLngExpression[];
-          const poly = L.polyline(coords, { color: 'blue' }).addTo(this.map);
-          poly.bindPopup(`📍 ${street.streetName}`);
-        }
-      }
-    });
-  }
-
+  
   private getColoreByDataPulizia(start: Date): string {
     if (start.getTime() === 0) return 'grey';
 
