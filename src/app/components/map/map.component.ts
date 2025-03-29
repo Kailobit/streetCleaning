@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import * as L from 'leaflet';
 import { environment } from '../../../environments/environment';
 import { LocalDataRetrieverService } from '../../services/localDataRetriever.service';
+import { DataManagerService } from '../../services/data-manager.service';
 
 @Component({
   selector: 'app-map',
@@ -13,7 +14,7 @@ export class MapComponent implements OnInit {
   private map: any;
 
   constructor(
-    private localDataRetrieverService: LocalDataRetrieverService,
+    private dataManagerService: DataManagerService,
   ) {}
 
   ngOnInit(): void {
@@ -27,6 +28,7 @@ export class MapComponent implements OnInit {
         attribution: '&copy; OpenStreetMap contributors'
       }).addTo(this.map);
 
+      this.dataManagerService.downloadParsedDataset();
       
     });
   }

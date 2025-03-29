@@ -1,8 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
-import { AbstractStreetData, GeometryStreetData } from '../models/models';
-import { LocalEndpoints } from '../utils/stringCostantsUtil';
+import { LocalEndpoints, RESPONSE_TYPE_TEXT } from '../utils/stringCostantsUtil';
 
 @Injectable({
   providedIn: 'root'
@@ -11,11 +10,8 @@ export class LocalDataRetrieverService {
 
   constructor(private http: HttpClient) {}
 
-  public getAbstractStreetData(): Observable<AbstractStreetData[]> {
-    return this.http.get<AbstractStreetData[]>(LocalEndpoints.getLocalAbstractStreetData);
+  public getDatasetFile(): Observable<string> {
+    return this.http.get(LocalEndpoints.getDatasetFile, { responseType: RESPONSE_TYPE_TEXT });
   }
-
-  public getGeometryStreetData(): Observable<GeometryStreetData[]> {
-    return this.http.get<GeometryStreetData[]>(LocalEndpoints.getLocalGeometryStreetData);
-  }
+  
 }
