@@ -13,5 +13,9 @@ export class LocalDataRetrieverService {
   public getDatasetFile(): Observable<string> {
     return this.http.get(LocalEndpoints.getDatasetFile, { responseType: RESPONSE_TYPE_TEXT });
   }
+
+  public getRawPlacemarks(): Observable<any> {
+    return this.http.get(LocalEndpoints.getPlacemarksFile);
+  }
   
 }

@@ -28,7 +28,7 @@ export class MapComponent implements OnInit {
         attribution: '&copy; OpenStreetMap contributors'
       }).addTo(this.map);
 
-      this.dataManagerService.downloadParsedDataset();
+      this.dataManagerService.downloadParsedPlacemark();
       
     });
   }
