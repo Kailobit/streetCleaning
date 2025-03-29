@@ -1,0 +1,7802 @@
+[
+  {
+    "id_strada": "13706",
+    "nome": "BORGO ALLEGRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13755",
+    "nome": "BORGO LA CROCE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14018",
+    "nome": "BORGO OGNISSANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13563",
+    "nome": "BORGO PINTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13837",
+    "nome": "BORGO SAN FREDIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13834",
+    "nome": "BORGO SAN IACOPO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14538",
+    "nome": "BORGO SANTA CROCE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14189",
+    "nome": "BORGO STELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14060",
+    "nome": "BORGO TEGOLAIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14635",
+    "nome": "CIMITERO SANTA LUCIA AL GALLUZZO (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13879",
+    "nome": "CORSO DEI TINTORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12963",
+    "nome": "CORSO ITALIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14348",
+    "nome": "COSTA DEI MAGNOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14367",
+    "nome": "COSTA DEL POZZO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13878",
+    "nome": "COSTA SAN GIORGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13877",
+    "nome": "COSTA SCARPUCCIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14078",
+    "nome": "ERTA CANINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12737",
+    "nome": "IL PRATO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14595",
+    "nome": "LARGO ACHILLE GENNARELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13434",
+    "nome": "LARGO ADONE ZOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12579",
+    "nome": "LARGO ALCIDE DE GASPERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13383",
+    "nome": "LARGO BARSENE CONTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13236",
+    "nome": "LARGO BRUNO FANCIULLACCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13234",
+    "nome": "LARGO CESARE CANTU&#039;",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13143",
+    "nome": "LARGO DEL BOSCHETTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13459",
+    "nome": "LARGO DEL RANOCCHIETTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12267",
+    "nome": "LARGO DINO CIALDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13984",
+    "nome": "LARGO ENRICO CARUSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14373",
+    "nome": "LARGO FRATELLI ALINARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22529",
+    "nome": "LARGO GIORGIO BURZIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13003",
+    "nome": "LARGO GIOVANNI ALESSANDRO BRAMBILLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14414",
+    "nome": "LARGO GUIDO NOVELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13195",
+    "nome": "LARGO IACOPO DELLA QUERCIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12706",
+    "nome": "LARGO MARTIRI DELLE FOIBE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12259",
+    "nome": "LARGO MICHELE LIVERANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13569",
+    "nome": "LARGO PIERO BARGELLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13456",
+    "nome": "LARGO PIETRO CAPEI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13975",
+    "nome": "LARGO PIETRO PAOLO BOSCOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12279",
+    "nome": "LUNGARNO ALDO MORO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13290",
+    "nome": "LUNGARNO AMERIGO VESPUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12570",
+    "nome": "LUNGARNO BENVENUTO CELLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12233",
+    "nome": "LUNGARNO CRISTOFORO COLOMBO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12518",
+    "nome": "LUNGARNO DEI PIOPPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12739",
+    "nome": "LUNGARNO DEL PIGNONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12581",
+    "nome": "LUNGARNO DEL TEMPIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13381",
+    "nome": "LUNGARNO DELLA ZECCA VECCHIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13599",
+    "nome": "LUNGARNO DELLE GRAZIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13864",
+    "nome": "LUNGARNO DI SANTA ROSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14190",
+    "nome": "LUNGARNO FRANCESCO FERRUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14486",
+    "nome": "LUNGARNO GUICCIARDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12749",
+    "nome": "LUNGARNO SERRISTORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14036",
+    "nome": "LUNGARNO SODERINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13709",
+    "nome": "LUNGARNO TORRIGIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14597",
+    "nome": "PIAZZA ADUA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23533",
+    "nome": "PIAZZA ANNA MARIA ICHINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14301",
+    "nome": "PIAZZA AUGUSTO CONTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12240",
+    "nome": "PIAZZA BENEDETTO DA ROVEZZANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14475",
+    "nome": "PIAZZA BERNARDINO PIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12806",
+    "nome": "PIAZZA BERNARDO TANUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12838",
+    "nome": "PIAZZA CARDINALE ELIA DALLA COSTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22522",
+    "nome": "PIAZZA CARDINALE ELIA DALLA COSTA (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23198",
+    "nome": "PIAZZA CARLO AZEGLIO CIAMPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13258",
+    "nome": "PIAZZA CARLO DOLCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13514",
+    "nome": "PIAZZA CARSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12687",
+    "nome": "PIAZZA CESARE BECCARIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13982",
+    "nome": "PIAZZA D&#039;OGNISSANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12587",
+    "nome": "PIAZZA DALMAZIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13743",
+    "nome": "PIAZZA DEGLI OTTAVIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14088",
+    "nome": "PIAZZA DEGLI SCARLATTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14330",
+    "nome": "PIAZZA DEI BONSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22767",
+    "nome": "PIAZZA DEI CAVALIERI DI VITTORIO VENETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13600",
+    "nome": "PIAZZA DEI CAVALLEGGERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14019",
+    "nome": "PIAZZA DEI CIOMPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14513",
+    "nome": "PIAZZA DEI FRESCOBALDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14328",
+    "nome": "PIAZZA DEI MOZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14181",
+    "nome": "PIAZZA DEI NERLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13811",
+    "nome": "PIAZZA DEI PITTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14105",
+    "nome": "PIAZZA DEI ROSSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12946",
+    "nome": "PIAZZA DEI TIGLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13610",
+    "nome": "PIAZZA DEL CARMINE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14434",
+    "nome": "PIAZZA DEL CROCIFISSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13219",
+    "nome": "PIAZZA DEL TERZOLLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13825",
+    "nome": "PIAZZA DEL TIRATOIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13932",
+    "nome": "PIAZZA DELL&#039;INDIPENDENZA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12561",
+    "nome": "PIAZZA DELL&#039;ISOLOTTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14244",
+    "nome": "PIAZZA DELL&#039;UNITA&#039; ITALIANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13287",
+    "nome": "PIAZZA DELLA CALZA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13473",
+    "nome": "PIAZZA DELLA COSTITUZIONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13136",
+    "nome": "PIAZZA DELLA LIBERTA&#039;",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14084",
+    "nome": "PIAZZA DELLA SANTISSIMA ANNUNZIATA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12253",
+    "nome": "PIAZZA DELLA STAZIONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12726",
+    "nome": "PIAZZA DELLA VITTORIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12263",
+    "nome": "PIAZZA DELLE CURE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12701",
+    "nome": "PIAZZA DESIDERIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12564",
+    "nome": "PIAZZA DI BADIA A RIPOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13690",
+    "nome": "PIAZZA DI CESTELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13941",
+    "nome": "PIAZZA DI SAN FELICE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14012",
+    "nome": "PIAZZA DI SAN FRANCESCO DI PAOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13217",
+    "nome": "PIAZZA DI SAN IACOPINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14433",
+    "nome": "PIAZZA DI SAN PAOLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13451",
+    "nome": "PIAZZA DI SAN SALVI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13397",
+    "nome": "PIAZZA DI SANTA CATERINA D&#039;ALESSANDRIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14146",
+    "nome": "PIAZZA DI SANTA CROCE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13684",
+    "nome": "PIAZZA DI SANTA FELICITA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13281",
+    "nome": "PIAZZA DI SANTA MARIA AL PIGNONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14243",
+    "nome": "PIAZZA DI SANTA MARIA NOVELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14436",
+    "nome": "PIAZZA DI SANTA MARIA SOPRARNO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12412",
+    "nome": "PIAZZA DI VAL D&#039;EMA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13060",
+    "nome": "PIAZZA DI VERZAIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13266",
+    "nome": "PIAZZA DON PIETRO PULITI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13805",
+    "nome": "PIAZZA DRESDA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13602",
+    "nome": "PIAZZA ENRICO MATTEI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12775",
+    "nome": "PIAZZA FELICE BACCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13476",
+    "nome": "PIAZZA FILIPPO BALDINUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14242",
+    "nome": "PIAZZA FILIPPO BRUNELLESCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13757",
+    "nome": "PIAZZA FRA&#039; GIROLAMO SAVONAROLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13045",
+    "nome": "PIAZZA FRANCESCO FERRUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12751",
+    "nome": "PIAZZA FRANCIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14596",
+    "nome": "PIAZZA GALILEO FERRARIS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12563",
+    "nome": "PIAZZA GAVINANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12583",
+    "nome": "PIAZZA GIACOMO PUCCINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12329",
+    "nome": "PIAZZA GIAMPIETRO VIEUSSEUX",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13462",
+    "nome": "PIAZZA GIORGIO VASARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14148",
+    "nome": "PIAZZA GIOVAMBATTISTA GIORGINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13665",
+    "nome": "PIAZZA GIOVANNI ANTONELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13145",
+    "nome": "PIAZZA GIOVANNI ROSADI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14168",
+    "nome": "PIAZZA GIUSEPPE GARIBALDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12569",
+    "nome": "PIAZZA GIUSEPPE POGGI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13681",
+    "nome": "PIAZZA GUALFREDOTTO DA MILANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13551",
+    "nome": "PIAZZA GUGLIELMO OBERDAN",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14465",
+    "nome": "PIAZZA ISIDORO DEL LUNGO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13220",
+    "nome": "PIAZZA LEON BATTISTA ALBERTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14108",
+    "nome": "PIAZZA LEOPOLDO NOBILI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12907",
+    "nome": "PIAZZA LORENZO GHIBERTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12256",
+    "nome": "PIAZZA LUDOVICO ANTONIO MURATORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13935",
+    "nome": "PIAZZA MASSIMO D&#039;AZEGLIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14187",
+    "nome": "PIAZZA NAZARIO SAURO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12922",
+    "nome": "PIAZZA NICCOLO ACCIAIOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13540",
+    "nome": "PIAZZA NICCOLO RODOLICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12264",
+    "nome": "PIAZZA NICCOLO TOMMASEO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13693",
+    "nome": "PIAZZA NICOLA DEMIDOFF",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13284",
+    "nome": "PIAZZA PAOLO UCCELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14068",
+    "nome": "PIAZZA PIATTELLINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14279",
+    "nome": "PIAZZA PIAVE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12787",
+    "nome": "PIAZZA PIER VETTORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12627",
+    "nome": "PIAZZA PIETRO LEOPOLDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13189",
+    "nome": "PIAZZA POMPEO BATONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14437",
+    "nome": "PIAZZA PRIMO MAGGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13667",
+    "nome": "PIAZZA QUATTRO NOVEMBRE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13046",
+    "nome": "PIAZZA RAVENNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13851",
+    "nome": "PIAZZA SAN BARTOLOMEO AL GIGNORO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14440",
+    "nome": "PIAZZA SANT&#039;AMBROGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12261",
+    "nome": "PIAZZA SANTI GERVASIO E PROTASIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14331",
+    "nome": "PIAZZA SANTO SPIRITO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13370",
+    "nome": "PIAZZA TADDEO GADDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12589",
+    "nome": "PIAZZA TOMMASO ALVA EDISON",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13808",
+    "nome": "PIAZZA TORQUATO TASSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13222",
+    "nome": "PIAZZA VALDELSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13227",
+    "nome": "PIAZZA VASCO MAGRINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13732",
+    "nome": "PIAZZA VINCENZO FARDELLA DI TORREARSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13396",
+    "nome": "PIAZZALE DI PORTA AL PRATO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13039",
+    "nome": "PIAZZALE DONATELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13061",
+    "nome": "PIAZZETTA DEL POMARIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14011",
+    "nome": "PIAZZETTA DEL SALICE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14471",
+    "nome": "PIAZZETTA DI SANTA MARIA AUSILIATRICE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13518",
+    "nome": "PIAZZETTA EUGENIO MONTALE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13531",
+    "nome": "PIAZZETTA FILIPPO DE PISIS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23562",
+    "nome": "PIAZZETTA I COMBATTENTI (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23563",
+    "nome": "PIAZZETTA MARIO PUCCI (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13670",
+    "nome": "PIAZZETTA MONTALCINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12576",
+    "nome": "PIAZZETTA SANSEPOLCRO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13153",
+    "nome": "PIAZZETTA VALDAMBRA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14321",
+    "nome": "PRATELLO ORSINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14087",
+    "nome": "SDRUCCIOLO DEI PITTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12366",
+    "nome": "STRADONE DI ROVEZZANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14335",
+    "nome": "VARCO ARNOLFO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14579",
+    "nome": "VARCO FRA&#039; GIOVANNI ANGELICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14505",
+    "nome": "VARCO SAN GIOVANNI BOSCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13043",
+    "nome": "VIA ABRUZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12666",
+    "nome": "VIA ACCURSIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22544",
+    "nome": "VIA ACCURSIO (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12631",
+    "nome": "VIA ADELAIDE RISTORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14005",
+    "nome": "VIA ADOLFO ANTOGNOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14376",
+    "nome": "VIA ADOLFO BARTOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13475",
+    "nome": "VIA ADRIANO CECIONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13409",
+    "nome": "VIA ADRIANO MARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14003",
+    "nome": "VIA AGNOLO FIRENZUOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14351",
+    "nome": "VIA AGNOLO POLIZIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14150",
+    "nome": "VIA AGOSTINO BERTANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12459",
+    "nome": "VIA AGOSTINO CIARPAGLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13016",
+    "nome": "VIA AGOSTINO DI DUCCIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14329",
+    "nome": "VIA AGOSTINO LAPINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13889",
+    "nome": "VIA ALBANIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13315",
+    "nome": "VIA ALBERTO BERTOLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13498",
+    "nome": "VIA ALDO ZUCCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12845",
+    "nome": "VIA ALESSANDRA MACINGHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12318",
+    "nome": "VIA ALESSANDRO ALLORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13902",
+    "nome": "VIA ALESSANDRO D&#039;ANCONA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12566",
+    "nome": "VIA ALESSANDRO FEI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12767",
+    "nome": "VIA ALESSANDRO LANFRANCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12944",
+    "nome": "VIA ALESSANDRO LEVI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13662",
+    "nome": "VIA ALESSANDRO MANZONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14266",
+    "nome": "VIA ALESSANDRO MARCHETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14493",
+    "nome": "VIA ALESSANDRO SCARLATTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14362",
+    "nome": "VIA ALESSANDRO STRADELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13257",
+    "nome": "VIA ALESSO BALDOVINETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13688",
+    "nome": "VIA ALFONSO LA MARMORA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12799",
+    "nome": "VIA ALFREDO CAPPELLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13893",
+    "nome": "VIA ALFREDO CATALANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14396",
+    "nome": "VIA ALFREDO LENSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13796",
+    "nome": "VIA ALFREDO ORIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14583",
+    "nome": "VIA ALFREDO ZAMBRINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12948",
+    "nome": "VIA ALIGI BARDUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12269",
+    "nome": "VIA ALMERICO DA SCHIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13412",
+    "nome": "VIA AMBROGIO DI BALDESE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12671",
+    "nome": "VIA AMBROGIO TRAVERSARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12357",
+    "nome": "VIA AMEDEO MODIGLIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14126",
+    "nome": "VIA AMILCARE PONCHIELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12959",
+    "nome": "VIA AMOS CASSIOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14555",
+    "nome": "VIA ANDORRA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13293",
+    "nome": "VIA ANDREA CESALPINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13687",
+    "nome": "VIA ANDREA CORSALI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12860",
+    "nome": "VIA ANDREA DA PONTEDERA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12735",
+    "nome": "VIA ANDREA DEL CASTAGNO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12879",
+    "nome": "VIA ANDREA DEL SARTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14517",
+    "nome": "VIA ANDREA DEL VERROCCHIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12909",
+    "nome": "VIA ANDREA DI BONAIUTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13979",
+    "nome": "VIA ANGELO MARIA BANDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14457",
+    "nome": "VIA ANGIOLINO DE&#039; CORBIZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12582",
+    "nome": "VIA ANGIOLO TAVANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13174",
+    "nome": "VIA ANNA MARIA ENRIQUES AGNOLETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13478",
+    "nome": "VIA ANNIBAL CARO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13734",
+    "nome": "VIA ANTON FRANCESCO DONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12718",
+    "nome": "VIA ANTON MARIA SALVINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12364",
+    "nome": "VIA ANTONIO CANOVA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22550",
+    "nome": "VIA ANTONIO CANOVA (INTERNO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22521",
+    "nome": "VIA ANTONIO CANOVA (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12736",
+    "nome": "VIA ANTONIO CISERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13852",
+    "nome": "VIA ANTONIO COCCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14134",
+    "nome": "VIA ANTONIO D&#039;ORSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12829",
+    "nome": "VIA ANTONIO DEL POLLAIOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13601",
+    "nome": "VIA ANTONIO FOGAZZARO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14127",
+    "nome": "VIA ANTONIO GIACOMINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13630",
+    "nome": "VIA ANTONIO LOCATELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13954",
+    "nome": "VIA ANTONIO MAGLIABECHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13674",
+    "nome": "VIA ANTONIO MANCINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12892",
+    "nome": "VIA ANTONIO MEUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14193",
+    "nome": "VIA ANTONIO MORDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13321",
+    "nome": "VIA ANTONIO PACINOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13714",
+    "nome": "VIA ANTONIO PIGAFETTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13071",
+    "nome": "VIA ANTONIO ROSMINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13164",
+    "nome": "VIA ANTONIO SALANDRA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14049",
+    "nome": "VIA ANTONIO SANTUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13605",
+    "nome": "VIA ANTONIO SCIALOJA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13429",
+    "nome": "VIA ANTONIO SERANTONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14410",
+    "nome": "VIA ANTONIO SQUARCIALUPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14535",
+    "nome": "VIA ANTONIO STRADIVARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12502",
+    "nome": "VIA ANTONIO VIVALDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14400",
+    "nome": "VIA ANTONIO ZOBI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12890",
+    "nome": "VIA ARCANGELO CORELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12328",
+    "nome": "VIA ARDUINO MICCINESI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12277",
+    "nome": "VIA ARETINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14384",
+    "nome": "VIA ARISTIDE FACCIOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14151",
+    "nome": "VIA ARMANDO SPADINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12610",
+    "nome": "VIA ARNALDO FUSINATO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14033",
+    "nome": "VIA ARNOLFO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13245",
+    "nome": "VIA ARRIGO BOITO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13503",
+    "nome": "VIA ARRIGO DA SETTIMELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12444",
+    "nome": "VIA ARTEMISIA GENTILESCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22524",
+    "nome": "VIA ARTEMISIA GENTILESCHI (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12290",
+    "nome": "VIA ARTURO FERRARIN",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12496",
+    "nome": "VIA ARTURO TOSCANINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13114",
+    "nome": "VIA ASSISI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13987",
+    "nome": "VIA ATTAVANTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13341",
+    "nome": "VIA ATTILIO MARIOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13175",
+    "nome": "VIA ATTILIO VALLECCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13981",
+    "nome": "VIA ATTILIO ZUCCAGNI ORLANDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13789",
+    "nome": "VIA ATTO VANNUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14316",
+    "nome": "VIA AUGUSTO BALDESI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12370",
+    "nome": "VIA AUGUSTO BARAZZUOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12520",
+    "nome": "VIA AUGUSTO NOVELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13158",
+    "nome": "VIA AUGUSTO PASSAGLIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14229",
+    "nome": "VIA AURELIO NICOLODI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14315",
+    "nome": "VIA AURELIO SAFFI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12448",
+    "nome": "VIA AUSTRIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12824",
+    "nome": "VIA BACCIO BANDINELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13722",
+    "nome": "VIA BACCIO D&#039;AGNOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12367",
+    "nome": "VIA BACCIO DA MONTELUPO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13056",
+    "nome": "VIA BACCIO DA MONTELUPO (INTERNO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22526",
+    "nome": "VIA BACCIO DA MONTELUPO (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13720",
+    "nome": "VIA BALDASSARRE FRANCESCHINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13613",
+    "nome": "VIA BALDO RUFFOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14379",
+    "nome": "VIA BARNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14514",
+    "nome": "VIA BARTOLOMEO DELLA GATTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14295",
+    "nome": "VIA BARTOLOMMEO AMMANNATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13643",
+    "nome": "VIA BARTOLOMMEO CRISTOFORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14551",
+    "nome": "VIA BARTOLOMMEO SCALA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13132",
+    "nome": "VIA BASILICATA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12683",
+    "nome": "VIA BASSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14093",
+    "nome": "VIA BATTISTA NALDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13813",
+    "nome": "VIA BELGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14237",
+    "nome": "VIA BENEDETTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14363",
+    "nome": "VIA BENEDETTO ACCOLTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12680",
+    "nome": "VIA BENEDETTO CASTELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14157",
+    "nome": "VIA BENEDETTO DA FOIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13106",
+    "nome": "VIA BENEDETTO DA MAIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12291",
+    "nome": "VIA BENEDETTO DEI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12409",
+    "nome": "VIA BENEDETTO FORTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13138",
+    "nome": "VIA BENEDETTO MARCELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13554",
+    "nome": "VIA BENEDETTO VARCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13675",
+    "nome": "VIA BENOZZO GOZZOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13243",
+    "nome": "VIA BENUCCIO DA ORVIETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14117",
+    "nome": "VIA BERNARDINO RAMAZZINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14441",
+    "nome": "VIA BERNARDINO TELESIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12500",
+    "nome": "VIA BERNARDO BUONTALENTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13746",
+    "nome": "VIA BERNARDO CENNINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12629",
+    "nome": "VIA BERNARDO PASQUINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13802",
+    "nome": "VIA BERNARDO RUCELLAI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13159",
+    "nome": "VIA BERTOLDO DI GIOVANNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12810",
+    "nome": "VIA BEZZECCA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12870",
+    "nome": "VIA BIBBIENA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14575",
+    "nome": "VIA BISENZIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12298",
+    "nome": "VIA BOLOGNESE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13368",
+    "nome": "VIA BONAVENTURA BERLINGHIERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14439",
+    "nome": "VIA BONIFAZIO LUPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14269",
+    "nome": "VIA BRACCIO DA MONTONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12538",
+    "nome": "VIA BRENTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12646",
+    "nome": "VIA BRONZINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12340",
+    "nome": "VIA BRUNETTO LATINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12760",
+    "nome": "VIA BRUNO CICOGNANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12847",
+    "nome": "VIA BRUNO MIGLIORINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12330",
+    "nome": "VIA BUFFALMACCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12740",
+    "nome": "VIA CADORE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13311",
+    "nome": "VIA CADUTI DI CEFALONIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12723",
+    "nome": "VIA CALABRIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14197",
+    "nome": "VIA CALANDRINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13650",
+    "nome": "VIA CAMILLO CAVOUR",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12331",
+    "nome": "VIA CAMPANIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13780",
+    "nome": "VIA CANTAGALLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13658",
+    "nome": "VIA CAPO DI MONDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12656",
+    "nome": "VIA CARDINAL LATINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13322",
+    "nome": "VIA CARLO BINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14016",
+    "nome": "VIA CARLO BOTTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12609",
+    "nome": "VIA CARLO BURCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13256",
+    "nome": "VIA CARLO CATTANEO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12424",
+    "nome": "VIA CARLO D&#039;ANGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14023",
+    "nome": "VIA CARLO DEL GRECO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13597",
+    "nome": "VIA CARLO DEL PRETE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13049",
+    "nome": "VIA CARLO LUDOVICO RAGGHIANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13018",
+    "nome": "VIA CARLO MAGGIORELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13193",
+    "nome": "VIA CARLO MARSUPPINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14344",
+    "nome": "VIA CARLO PIAGGIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12622",
+    "nome": "VIA CARLO PISACANE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13697",
+    "nome": "VIA CARLO POMA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13014",
+    "nome": "VIA CARNIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14442",
+    "nome": "VIA CASAMORATA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14569",
+    "nome": "VIA CASENTINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13009",
+    "nome": "VIA CASSIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14111",
+    "nome": "VIA CASTELFIDARDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14246",
+    "nome": "VIA CATERINA FRANCESCHI FERRUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13079",
+    "nome": "VIA CECCO BRAVO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13781",
+    "nome": "VIA CECOSLOVACCHIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14358",
+    "nome": "VIA CELESTINO BIANCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12611",
+    "nome": "VIA CELSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14090",
+    "nome": "VIA CERTALDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13074",
+    "nome": "VIA CESARE BALBO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13901",
+    "nome": "VIA CESARE BATTISTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14092",
+    "nome": "VIA CESARE COCCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13006",
+    "nome": "VIA CESARE DE LAUGIER",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12495",
+    "nome": "VIA CESARE GUASTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12477",
+    "nome": "VIA CESARE LOMBROSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12782",
+    "nome": "VIA CESARE MACCARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12757",
+    "nome": "VIA CHIANTIGIANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12669",
+    "nome": "VIA CHIUSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13869",
+    "nome": "VIA CIMABUE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14511",
+    "nome": "VIA CINO DA PISTOIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12722",
+    "nome": "VIA CIRCONDARIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14017",
+    "nome": "VIA CIRO MENOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13930",
+    "nome": "VIA CITTADELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12895",
+    "nome": "VIA CLAUDIO MONTEVERDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13275",
+    "nome": "VIA CLEMENTE REBORA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13883",
+    "nome": "VIA COLLODI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14013",
+    "nome": "VIA COLUCCIO SALUTATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12375",
+    "nome": "VIA COPPO DI MARCOVALDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12527",
+    "nome": "VIA CORTONA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14174",
+    "nome": "VIA COSIMO RIDOLFI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14040",
+    "nome": "VIA COSIMO ROSSELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12814",
+    "nome": "VIA COSSERIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14557",
+    "nome": "VIA COSTANTINO NIGRA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13672",
+    "nome": "VIA CREMANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12813",
+    "nome": "VIA CRIMEA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12817",
+    "nome": "VIA CRISTINA DI BELGIOIOSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13917",
+    "nome": "VIA CRISTOFORO LANDINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13378",
+    "nome": "VIA CURTATONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12275",
+    "nome": "VIA CURZIO MALAPARTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13955",
+    "nome": "VIA D&#039;ARDIGLIONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13577",
+    "nome": "VIA DA&#039; MORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13251",
+    "nome": "VIA DAMIANO CHIESA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13285",
+    "nome": "VIA DANIELE MANIN",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12766",
+    "nome": "VIA DANIMARCA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12763",
+    "nome": "VIA DANTE DA CASTIGLIONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12273",
+    "nome": "VIA DE&#039; PERFETTI RICASOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12777",
+    "nome": "VIA DEGLI ABETI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13890",
+    "nome": "VIA DEGLI ACERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12855",
+    "nome": "VIA DEGLI ADRIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12930",
+    "nome": "VIA DEGLI AGRIFOGLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13914",
+    "nome": "VIA DEGLI ALFANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13228",
+    "nome": "VIA DEGLI ALLI-MACCARANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13844",
+    "nome": "VIA DEGLI ARAZZIERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13055",
+    "nome": "VIA DEGLI ARCIPRESSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12262",
+    "nome": "VIA DEGLI ARTISTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14565",
+    "nome": "VIA DEGLI AVELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12958",
+    "nome": "VIA DEGLI OLEANDRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14281",
+    "nome": "VIA DEGLI ORTI ORICELLARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12974",
+    "nome": "VIA DEGLI STEFANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13415",
+    "nome": "VIA DEI BALDOVINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13799",
+    "nome": "VIA DEI BARBADORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12676",
+    "nome": "VIA DEI BARDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12638",
+    "nome": "VIA DEI BASSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13779",
+    "nome": "VIA DEI BASTIONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14292",
+    "nome": "VIA DEI BELFREDELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12877",
+    "nome": "VIA DEI BRUNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12670",
+    "nome": "VIA DEI BUONDELMONTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12304",
+    "nome": "VIA DEI CABOTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14454",
+    "nome": "VIA DEI CADOLINGI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13648",
+    "nome": "VIA DEI CAIROLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12568",
+    "nome": "VIA DEI CAMPI LUNGHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14492",
+    "nome": "VIA DEI CANACCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13977",
+    "nome": "VIA DEI CAPPUCCINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14037",
+    "nome": "VIA DEI CARDATORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12287",
+    "nome": "VIA DEI CATTANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14322",
+    "nome": "VIA DEI CONCIATORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12850",
+    "nome": "VIA DEI CORBINELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14536",
+    "nome": "VIA DEI COVERELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13617",
+    "nome": "VIA DEI DELLA ROBBIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12641",
+    "nome": "VIA DEI FALCUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13064",
+    "nome": "VIA DEI FENZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14332",
+    "nome": "VIA DEI FIBBIAI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12975",
+    "nome": "VIA DEI FILIPPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14603",
+    "nome": "VIA DEI FOSSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12784",
+    "nome": "VIA DEI FRASSINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13995",
+    "nome": "VIA DEI FRULLANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13585",
+    "nome": "VIA DEI GEPPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12768",
+    "nome": "VIA DEI GIANDONATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13026",
+    "nome": "VIA DEI GINEPRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14553",
+    "nome": "VIA DEI GINORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13918",
+    "nome": "VIA DEI GUICCIARDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13842",
+    "nome": "VIA DEI LIGUSTRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14055",
+    "nome": "VIA DEI LORENZETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13686",
+    "nome": "VIA DEI MACCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14424",
+    "nome": "VIA DEI MALCONTENTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14075",
+    "nome": "VIA DEI MARSILI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14452",
+    "nome": "VIA DEI MARTIRI DEL POPOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12521",
+    "nome": "VIA DEI MELOGRANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14056",
+    "nome": "VIA DEI MICHELOZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12811",
+    "nome": "VIA DEI NICCOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13663",
+    "nome": "VIA DEI PEPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13196",
+    "nome": "VIA DEI PIETRIBONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13786",
+    "nome": "VIA DEI PILASTRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12728",
+    "nome": "VIA DEI POZZI DI MANTIGNANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14061",
+    "nome": "VIA DEI PRETI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12358",
+    "nome": "VIA DEI QUERCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14172",
+    "nome": "VIA DEI RAMAGLIANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13328",
+    "nome": "VIA DEI RASTRELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13945",
+    "nome": "VIA DEI RENAI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13073",
+    "nome": "VIA DEI RODODENDRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13738",
+    "nome": "VIA DEI SABATELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13971",
+    "nome": "VIA DEI SAPITI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13561",
+    "nome": "VIA DEI SERRAGLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13580",
+    "nome": "VIA DEI SERVI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13646",
+    "nome": "VIA DEI SETTE SANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12987",
+    "nome": "VIA DEI TACCHINARDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13897",
+    "nome": "VIA DEI TESSITORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14192",
+    "nome": "VIA DEI TOMMASI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13015",
+    "nome": "VIA DEI VANNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13973",
+    "nome": "VIA DEI VELLUTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13881",
+    "nome": "VIA DEI VELLUTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12258",
+    "nome": "VIA DEI VESPUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12854",
+    "nome": "VIA DEI VILLANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13166",
+    "nome": "VIA DEL BALUARDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12655",
+    "nome": "VIA DEL BANDINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12798",
+    "nome": "VIA DEL BARCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13737",
+    "nome": "VIA DEL BARGEO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14241",
+    "nome": "VIA DEL BERIGNOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14501",
+    "nome": "VIA DEL BERSAGLIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13072",
+    "nome": "VIA DEL BIANCOSPINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13812",
+    "nome": "VIA DEL BOBOLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12900",
+    "nome": "VIA DEL CAMPO D&#039;ARRIGO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12823",
+    "nome": "VIA DEL CAMPO DI MARTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12531",
+    "nome": "VIA DEL CAMPOFIORE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14059",
+    "nome": "VIA DEL CAMPUCCIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14171",
+    "nome": "VIA DEL CANNETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13544",
+    "nome": "VIA DEL CANTONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13652",
+    "nome": "VIA DEL CAPARRA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12565",
+    "nome": "VIA DEL CARAVAGGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12678",
+    "nome": "VIA DEL CAROTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14378",
+    "nome": "VIA DEL CASONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12902",
+    "nome": "VIA DEL CAVALLACCIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13661",
+    "nome": "VIA DEL CHIESINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12956",
+    "nome": "VIA DEL CHIUSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12978",
+    "nome": "VIA DEL CIMITERO DI UGNANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13943",
+    "nome": "VIA DEL CLASIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12636",
+    "nome": "VIA DEL CONFINE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12837",
+    "nome": "VIA DEL CROCIFISSO DEL LUME",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12528",
+    "nome": "VIA DEL CRONACA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13583",
+    "nome": "VIA DEL DRAGO D&#039;ORO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13835",
+    "nome": "VIA DEL FICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13840",
+    "nome": "VIA DEL FILARETE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13464",
+    "nome": "VIA DEL FIORINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13944",
+    "nome": "VIA DEL FORTE DI SAN GIORGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12276",
+    "nome": "VIA DEL FOSSETTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14051",
+    "nome": "VIA DEL FRANCIABIGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12681",
+    "nome": "VIA DEL GELSOMINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13680",
+    "nome": "VIA DEL GHIRLANDAIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12482",
+    "nome": "VIA DEL GIARDINO DELLA BIZZARRIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14099",
+    "nome": "VIA DEL GIARDINO SERRISTORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12239",
+    "nome": "VIA DEL GIGNORO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13346",
+    "nome": "VIA DEL GIUGGIOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13176",
+    "nome": "VIA DEL GRANCHIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12525",
+    "nome": "VIA DEL GUARLONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13980",
+    "nome": "VIA DEL LASCA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14041",
+    "nome": "VIA DEL LEONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12649",
+    "nome": "VIA DEL LORETINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13098",
+    "nome": "VIA DEL LUCCIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12368",
+    "nome": "VIA DEL MADONNONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12970",
+    "nome": "VIA DEL MALCANTONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13417",
+    "nome": "VIA DEL MASCHERINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13109",
+    "nome": "VIA DEL MASSAIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14529",
+    "nome": "VIA DEL MELARANCIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12805",
+    "nome": "VIA DEL MERCATO DEL BESTIAME",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12826",
+    "nome": "VIA DEL MEZZETTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12972",
+    "nome": "VIA DEL MONTE ALLE CROCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14545",
+    "nome": "VIA DEL MURAGLIONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13629",
+    "nome": "VIA DEL PALAZZO BRUCIATO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12642",
+    "nome": "VIA DEL PALAZZO DEI DIAVOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13819",
+    "nome": "VIA DEL PALLONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12406",
+    "nome": "VIA DEL PANTANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12394",
+    "nome": "VIA DEL PARADISO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13880",
+    "nome": "VIA DEL PAVONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13391",
+    "nome": "VIA DEL PELLEGRINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13038",
+    "nome": "VIA DEL PERUGINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13180",
+    "nome": "VIA DEL PERUGINO (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13528",
+    "nome": "VIA DEL PESCIOLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13861",
+    "nome": "VIA DEL PIAGGIONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12426",
+    "nome": "VIA DEL PIAN D&#039;EMA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13058",
+    "nome": "VIA DEL PIGNONCINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13013",
+    "nome": "VIA DEL PIGNONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13549",
+    "nome": "VIA DEL PINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13027",
+    "nome": "VIA DEL PIOVANO ARLOTTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12413",
+    "nome": "VIA DEL PODESTA&#039;",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12679",
+    "nome": "VIA DEL POGGIO ALLA NOCE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13288",
+    "nome": "VIA DEL POGGIOLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13017",
+    "nome": "VIA DEL PONTE A GREVE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13120",
+    "nome": "VIA DEL PONTE ALL&#039;ASSE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12501",
+    "nome": "VIA DEL PONTE ALLE MOSSE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12809",
+    "nome": "VIA DEL PONTE ALLE RIFFE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13317",
+    "nome": "VIA DEL PONTE DEL PECORA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13306",
+    "nome": "VIA DEL PONTE DI MEZZO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14599",
+    "nome": "VIA DEL PONTE GRANDE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13374",
+    "nome": "VIA DEL PONTE ROSSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14052",
+    "nome": "VIA DEL PONTE SOSPESO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13826",
+    "nome": "VIA DEL PONTICINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13698",
+    "nome": "VIA DEL PORCELLANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12745",
+    "nome": "VIA DEL POZZINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12238",
+    "nome": "VIA DEL PRATELLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13380",
+    "nome": "VIA DEL PRATELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14366",
+    "nome": "VIA DEL PRESTO DI SAN MARTINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14399",
+    "nome": "VIA DEL RISORGIMENTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13110",
+    "nome": "VIA DEL ROMITINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12344",
+    "nome": "VIA DEL ROMITO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14394",
+    "nome": "VIA DEL RONCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12965",
+    "nome": "VIA DEL RONCO CORTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12377",
+    "nome": "VIA DEL RONCO LUNGO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12742",
+    "nome": "VIA DEL RONDININO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13550",
+    "nome": "VIA DEL ROSETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13724",
+    "nome": "VIA DEL ROSSO FIORENTINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13679",
+    "nome": "VIA DEL SALETTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13047",
+    "nome": "VIA DEL SALVIATINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13365",
+    "nome": "VIA DEL SANSOVINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12793",
+    "nome": "VIA DEL SODO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14293",
+    "nome": "VIA DEL TABERNACOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14245",
+    "nome": "VIA DEL TERZOLLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13596",
+    "nome": "VIA DEL TIRATOIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12268",
+    "nome": "VIA DELL&#039;ACCADEMIA DEL CIMENTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14510",
+    "nome": "VIA DELL&#039;AGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13595",
+    "nome": "VIA DELL&#039;AGNOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13911",
+    "nome": "VIA DELL&#039;ALBERO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14184",
+    "nome": "VIA DELL&#039;AMORINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14403",
+    "nome": "VIA DELL&#039;ANCONELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14143",
+    "nome": "VIA DELL&#039;ANTELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13344",
+    "nome": "VIA DELL&#039;ARCOLAIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14047",
+    "nome": "VIA DELL&#039;ARCOVATA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12898",
+    "nome": "VIA DELL&#039;ARGIN GROSSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14627",
+    "nome": "VIA DELL&#039;ARGIN GROSSO (INTERNO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13717",
+    "nome": "VIA DELL&#039;ARGIN SECCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22517",
+    "nome": "VIA DELL&#039;ARGIN SECCO (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12492",
+    "nome": "VIA DELL&#039;ISOLOTTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13685",
+    "nome": "VIA DELL&#039;OLIVUZZO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14588",
+    "nome": "VIA DELL&#039;OLMO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13772",
+    "nome": "VIA DELL&#039;ORCAGNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13785",
+    "nome": "VIA DELL&#039;ORTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14270",
+    "nome": "VIA DELL&#039;ORTONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12485",
+    "nome": "VIA DELL&#039;OSTERIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14020",
+    "nome": "VIA DELL&#039;ULIVO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13974",
+    "nome": "VIA DELLA BELLARIVA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12575",
+    "nome": "VIA DELLA CASELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13853",
+    "nome": "VIA DELLA CERNAIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13970",
+    "nome": "VIA DELLA CHIESA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14046",
+    "nome": "VIA DELLA COLONNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13494",
+    "nome": "VIA DELLA COMPIUTA DONZELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12872",
+    "nome": "VIA DELLA CUPOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22542",
+    "nome": "VIA DELLA CUPOLA (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14176",
+    "nome": "VIA DELLA DOGANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12741",
+    "nome": "VIA DELLA FONDERIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14210",
+    "nome": "VIA DELLA FORNACE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14076",
+    "nome": "VIA DELLA FORTEZZA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14298",
+    "nome": "VIA DELLA GAGGIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12586",
+    "nome": "VIA DELLA LOGGETTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12475",
+    "nome": "VIA DELLA MADONNA DEL TERRAZZO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12378",
+    "nome": "VIA DELLA MADONNA DELLA PACE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13678",
+    "nome": "VIA DELLA MADONNA DELLA QUERCE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13822",
+    "nome": "VIA DELLA MADONNA DELLA TOSSE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12504",
+    "nome": "VIA DELLA MADONNA DELLE GRAZIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13264",
+    "nome": "VIA DELLA MADONNA DI PAGANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12647",
+    "nome": "VIA DELLA MATTONAIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12833",
+    "nome": "VIA DELLA NAVE A ROVEZZANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12598",
+    "nome": "VIA DELLA NAVE DI BROZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12572",
+    "nome": "VIA DELLA PALANCOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13953",
+    "nome": "VIA DELLA PERGOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12471",
+    "nome": "VIA DELLA PIAZZUOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12762",
+    "nome": "VIA DELLA RESURREZIONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14499",
+    "nome": "VIA DELLA RIPA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12578",
+    "nome": "VIA DELLA RONDINELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14121",
+    "nome": "VIA DELLA ROSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13229",
+    "nome": "VIA DELLA SAGGINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12481",
+    "nome": "VIA DELLA SALA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13951",
+    "nome": "VIA DELLA SCALA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13177",
+    "nome": "VIA DELLA STAZIONE DELLE CASCINE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12513",
+    "nome": "VIA DELLA TORRE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12312",
+    "nome": "VIA DELLA TORRE DEGLI AGLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13570",
+    "nome": "VIA DELLA TORRETTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14456",
+    "nome": "VIA DELLA TORRICELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13215",
+    "nome": "VIA DELLA VILLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12584",
+    "nome": "VIA DELLA VILLA DEMIDOFF",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12608",
+    "nome": "VIA DELLA VILLA LORENZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13892",
+    "nome": "VIA DELLA VILLA NUOVA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12519",
+    "nome": "VIA DELLE ACACIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14474",
+    "nome": "VIA DELLE AZALEE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13612",
+    "nome": "VIA DELLE CALDAIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12783",
+    "nome": "VIA DELLE CAMELIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14216",
+    "nome": "VIA DELLE CARRA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13983",
+    "nome": "VIA DELLE CASCINE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14089",
+    "nome": "VIA DELLE CASINE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13766",
+    "nome": "VIA DELLE CENTO STELLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14581",
+    "nome": "VIA DELLE CERBINE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13818",
+    "nome": "VIA DELLE CINQUE GIORNATE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14544",
+    "nome": "VIA DELLE COMPAGNIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13836",
+    "nome": "VIA DELLE CONCE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13171",
+    "nome": "VIA DELLE FORBICI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13965",
+    "nome": "VIA DELLE GHIACCIAIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12709",
+    "nome": "VIA DELLE GORE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14063",
+    "nome": "VIA DELLE LAME",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14381",
+    "nome": "VIA DELLE MANTELLATE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13070",
+    "nome": "VIA DELLE MEDAGLIE D&#039;ORO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14104",
+    "nome": "VIA DELLE MIMOSE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12883",
+    "nome": "VIA DELLE MONTALVE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12989",
+    "nome": "VIA DELLE MULINA DI SANT&#039;ANDREA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12750",
+    "nome": "VIA DELLE NAZIONI UNITE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12640",
+    "nome": "VIA DELLE ORTENSIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13004",
+    "nome": "VIA DELLE PANCHE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13790",
+    "nome": "VIA DELLE PINZOCHERE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14179",
+    "nome": "VIA DELLE PORTE NUOVE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14072",
+    "nome": "VIA DELLE RUOTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13407",
+    "nome": "VIA DELLE SCIABBIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12711",
+    "nome": "VIA DELLE SCUOLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13926",
+    "nome": "VIA DELLE TORRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13146",
+    "nome": "VIA DELLE TRE PIETRE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14082",
+    "nome": "VIA DELLO DELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13387",
+    "nome": "VIA DELLO SPECCHIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13972",
+    "nome": "VIA DELLO SPRONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13231",
+    "nome": "VIA DELLO STATUTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12945",
+    "nome": "VIA DELLO STECCUTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13509",
+    "nome": "VIA DI BARBACANE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14166",
+    "nome": "VIA DI BARBANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14573",
+    "nome": "VIA DI BELVEDERE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12457",
+    "nome": "VIA DI BROZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22518",
+    "nome": "VIA DI BROZZI (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13633",
+    "nome": "VIA DI CACIOLLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14091",
+    "nome": "VIA DI CAMALDOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12923",
+    "nome": "VIA DI CAMERATA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12476",
+    "nome": "VIA DI CAMMORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14296",
+    "nome": "VIA DI CAMPOREGGI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13740",
+    "nome": "VIA DI CARRAIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14007",
+    "nome": "VIA DI CESTELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13025",
+    "nome": "VIA DI COCCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13673",
+    "nome": "VIA DI COVERCIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12443",
+    "nome": "VIA DI FAGNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13090",
+    "nome": "VIA DI FRULLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13076",
+    "nome": "VIA DI LEGNAIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14489",
+    "nome": "VIA DI MALAVOLTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12897",
+    "nome": "VIA DI MANTIGNANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12411",
+    "nome": "VIA DI MASSAPAGANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14217",
+    "nome": "VIA DI MEZZO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12875",
+    "nome": "VIA DI MONTE OLIVETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14491",
+    "nome": "VIA DI MONTICELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12472",
+    "nome": "VIA DI MOTRONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12720",
+    "nome": "VIA DI NOVOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22520",
+    "nome": "VIA DI NOVOLI (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12612",
+    "nome": "VIA DI PERETOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14297",
+    "nome": "VIA DI QUARTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14502",
+    "nome": "VIA DI RICORBOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13923",
+    "nome": "VIA DI RIFREDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12774",
+    "nome": "VIA DI RIPALTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12532",
+    "nome": "VIA DI RIPOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12246",
+    "nome": "VIA DI RITORTOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13066",
+    "nome": "VIA DI ROCCA TEDALDA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13085",
+    "nome": "VIA DI RUSCIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12559",
+    "nome": "VIA DI SAN BARTOLO A CINTOIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22541",
+    "nome": "VIA DI SAN BARTOLO A CINTOIA (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14496",
+    "nome": "VIA DI SAN FRANCESCO DI PAOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13871",
+    "nome": "VIA DI SAN GIUSEPPE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14461",
+    "nome": "VIA DI SAN IACOPINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13233",
+    "nome": "VIA DI SAN MARTINO A BROZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14115",
+    "nome": "VIA DI SAN NICCOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14112",
+    "nome": "VIA DI SAN PAOLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13593",
+    "nome": "VIA DI SAN QUIRICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14285",
+    "nome": "VIA DI SAN ROCCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22543",
+    "nome": "VIA DI SAN ROCCO (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12657",
+    "nome": "VIA DI SAN SALVATORE AL MONTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13751",
+    "nome": "VIA DI SAN SALVI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12697",
+    "nome": "VIA DI SAN VITO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13590",
+    "nome": "VIA DI SANTA LUCIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13841",
+    "nome": "VIA DI SANTA MARIA A CINTOIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13770",
+    "nome": "VIA DI SANTO SPIRITO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12363",
+    "nome": "VIA DI SCANDICCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13560",
+    "nome": "VIA DI SERUMIDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12973",
+    "nome": "VIA DI SOFFIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13342",
+    "nome": "VIA DI SOLLICCIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13173",
+    "nome": "VIA DI SOTTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13117",
+    "nome": "VIA DI TORREGALLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12359",
+    "nome": "VIA DI UGNANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13363",
+    "nome": "VIA DI UGNANO (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12914",
+    "nome": "VIA DI VARLUNGO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12373",
+    "nome": "VIA DI VILLAMAGNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22549",
+    "nome": "VIA DI VILLAMAGNA (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12815",
+    "nome": "VIA DI VINCIGLIATA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12325",
+    "nome": "VIA DINO COMPAGNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13573",
+    "nome": "VIA DINO DEL GARBO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14449",
+    "nome": "VIA DIVISIONE GARIBALDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13767",
+    "nome": "VIA DOGALI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14428",
+    "nome": "VIA DOMENICO BECCAFUMI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14058",
+    "nome": "VIA DOMENICO BURCHIELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13483",
+    "nome": "VIA DOMENICO CIMAROSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13803",
+    "nome": "VIA DOMENICO CIRILLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12585",
+    "nome": "VIA DOMENICO COMPARETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14418",
+    "nome": "VIA DOMENICO GIULIOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13501",
+    "nome": "VIA DOMENICO MARIA MANNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13530",
+    "nome": "VIA DOMENICO MICHELACCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13388",
+    "nome": "VIA DOMENICO MORENI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14497",
+    "nome": "VIA DOMENICO PULIGO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14054",
+    "nome": "VIA DOMENICO VENEZIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14393",
+    "nome": "VIA DON GIOVANNI VERITA&#039;",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13050",
+    "nome": "VIA DON LORENZO MILANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13051",
+    "nome": "VIA DON MARTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12360",
+    "nome": "VIA DONATO BRAMANTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14485",
+    "nome": "VIA DUCA D&#039;AOSTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12913",
+    "nome": "VIA DUCCIO DI BUONINSEGNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14342",
+    "nome": "VIA EDIMBURGO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14214",
+    "nome": "VIA EDOARDO DETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14196",
+    "nome": "VIA EGISTO FABBRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13888",
+    "nome": "VIA ELBANO GASPERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12616",
+    "nome": "VIA ELEONORA FONSECA PIMENTEL",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12708",
+    "nome": "VIA ELEONORA RAMIREZ DE MONTALVO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13445",
+    "nome": "VIA ELIO GABBUGGIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14549",
+    "nome": "VIA EMANUELE REPETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12794",
+    "nome": "VIA EMIDIO SPINUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13042",
+    "nome": "VIA EMILIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12747",
+    "nome": "VIA EMILIO VISCONTI VENOSTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12931",
+    "nome": "VIA EMPOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12600",
+    "nome": "VIA ENRICO BARONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12620",
+    "nome": "VIA ENRICO FORLANINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12886",
+    "nome": "VIA ENRICO GUIDO BOCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14345",
+    "nome": "VIA ENRICO IL NAVIGATORE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14380",
+    "nome": "VIA ENRICO MAYER",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13728",
+    "nome": "VIA ENRICO NENCIONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13277",
+    "nome": "VIA ENRICO PEA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13638",
+    "nome": "VIA ENRICO PETRELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14128",
+    "nome": "VIA ENRICO POGGI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14235",
+    "nome": "VIA ENRICO TAZZOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14478",
+    "nome": "VIA ENRICO TOTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13167",
+    "nome": "VIA ERBOSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12712",
+    "nome": "VIA ERMANNO WOLF FERRARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13695",
+    "nome": "VIA ERMENEGILDO PISTELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13963",
+    "nome": "VIA ERMENEGILDO SANTONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12511",
+    "nome": "VIA ERMETE ZACCONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13012",
+    "nome": "VIA ERMOLAO RUBIERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23554",
+    "nome": "VIA ESTONIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12727",
+    "nome": "VIA ETTORE PETROLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13125",
+    "nome": "VIA EUGENIO BARSANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12947",
+    "nome": "VIA EUGENIO CALO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14533",
+    "nome": "VIA EVARISTO BONCINELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12278",
+    "nome": "VIA FABRIZIO DE ANDRE&#039;",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12315",
+    "nome": "VIA FAENTINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14140",
+    "nome": "VIA FAENZA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13938",
+    "nome": "VIA FALIERO VEZZANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14540",
+    "nome": "VIA FARINATA DEGLI UBERTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14543",
+    "nome": "VIA FAUSTO DIONISI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14135",
+    "nome": "VIA FEDELE SOLDANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13278",
+    "nome": "VIA FEDERICO CAMMEO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13491",
+    "nome": "VIA FEDERICO D&#039;ANTIOCHIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13707",
+    "nome": "VIA FEDERICO ZUCCARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14371",
+    "nome": "VIA FEDERIGO GRIFEO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12625",
+    "nome": "VIA FEDERIGO STIBBERT",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13876",
+    "nome": "VIA FEDERIGO TOZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14607",
+    "nome": "VIA FELICE BRANCACCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13144",
+    "nome": "VIA FELICE CAVALLOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13582",
+    "nome": "VIA FELICE FONTANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13147",
+    "nome": "VIA FELICE MATTEUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12514",
+    "nome": "VIA FERDINANDO ARRIVABENE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13934",
+    "nome": "VIA FERDINANDO BARTOLOMMEI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14463",
+    "nome": "VIA FERDINANDO BONAVENTURA MOGGI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12769",
+    "nome": "VIA FERDINANDO CIOLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12643",
+    "nome": "VIA FERDINANDO MARTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12491",
+    "nome": "VIA FERDINANDO PAOLETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12445",
+    "nome": "VIA FERDINANDO PAOLIERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14507",
+    "nome": "VIA FERONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14360",
+    "nome": "VIA FERRUCCIO BUSONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14065",
+    "nome": "VIA FEZ",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14223",
+    "nome": "VIA FIESOLANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14064",
+    "nome": "VIA FILADELFIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12619",
+    "nome": "VIA FILIPPO BRUNETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14002",
+    "nome": "VIA FILIPPO BUONACCORSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12614",
+    "nome": "VIA FILIPPO CORRIDONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "25729",
+    "nome": "VIA FILIPPO CORRIDONI (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14395",
+    "nome": "VIA FILIPPO DEGLI UGONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13821",
+    "nome": "VIA FILIPPO PACINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12397",
+    "nome": "VIA FILIPPO PARLATORE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13390",
+    "nome": "VIA FILIPPO TURATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13032",
+    "nome": "VIA FILIPPO WEBB",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12384",
+    "nome": "VIA FINLANDIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14263",
+    "nome": "VIA FIUME",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13362",
+    "nome": "VIA FLAVIO STILICONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13393",
+    "nome": "VIA FLAVIO TORELLO BARACCHINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12635",
+    "nome": "VIA FONTEBUONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23181",
+    "nome": "VIA FOSCO MARAINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12952",
+    "nome": "VIA FRA&#039; BARTOLOMMEO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12543",
+    "nome": "VIA FRA&#039; BERNARDO DA QUINTAVALLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14286",
+    "nome": "VIA FRA&#039; DIAMANTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14265",
+    "nome": "VIA FRA&#039; DOMENICO BUONVICINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14136",
+    "nome": "VIA FRA&#039; FILIPPO LIPPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13896",
+    "nome": "VIA FRA&#039; GIOVANNI ANGELICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13502",
+    "nome": "VIA FRA&#039; GIROLAMO GOLUBOVICH",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13567",
+    "nome": "VIA FRA&#039; GUITTONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13801",
+    "nome": "VIA FRA&#039; IACOPO PASSAVANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13592",
+    "nome": "VIA FRA&#039; PAOLO SARPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13021",
+    "nome": "VIA FRA&#039; SALIMBENE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14100",
+    "nome": "VIA FRA&#039; SILVESTRO MARUFFI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13623",
+    "nome": "VIA FRANCESCO BALDUCCI PEGOLOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12487",
+    "nome": "VIA FRANCESCO BARACCA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14324",
+    "nome": "VIA FRANCESCO BERNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13682",
+    "nome": "VIA FRANCESCO BOCCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14071",
+    "nome": "VIA FRANCESCO BONAINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12526",
+    "nome": "VIA FRANCESCO CALASSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12615",
+    "nome": "VIA FRANCESCO CARACCIOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13401",
+    "nome": "VIA FRANCESCO CARLETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12337",
+    "nome": "VIA FRANCESCO CORTECCIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12725",
+    "nome": "VIA FRANCESCO CRISPI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13566",
+    "nome": "VIA FRANCESCO DA BARBERINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13683",
+    "nome": "VIA FRANCESCO DATINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14165",
+    "nome": "VIA FRANCESCO DE PINEDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13410",
+    "nome": "VIA FRANCESCO DE SANCTIS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13850",
+    "nome": "VIA FRANCESCO DOMENICO GUERRAZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13611",
+    "nome": "VIA FRANCESCO FURINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13985",
+    "nome": "VIA FRANCESCO GEMINIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12626",
+    "nome": "VIA FRANCESCO GIANNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14341",
+    "nome": "VIA FRANCESCO GRANACCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13008",
+    "nome": "VIA FRANCESCO LANDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12335",
+    "nome": "VIA FRANCESCO MARUCELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12313",
+    "nome": "VIA FRANCESCO MORLACCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12234",
+    "nome": "VIA FRANCESCO NULLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12977",
+    "nome": "VIA FRANCESCO PAOLO MICHETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13030",
+    "nome": "VIA FRANCESCO PESELLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13854",
+    "nome": "VIA FRANCESCO PUCCINOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13931",
+    "nome": "VIA FRANCESCO RISMONDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13621",
+    "nome": "VIA FRANCESCO SAVERIO ALTAMURA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12928",
+    "nome": "VIA FRANCESCO SERDONATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13859",
+    "nome": "VIA FRANCESCO VALORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13960",
+    "nome": "VIA FRANCESCO VERACINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13034",
+    "nome": "VIA FRANCESCO ZAMBECCARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14240",
+    "nome": "VIA FRANCO SACCHETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14408",
+    "nome": "VIA FRATE ELIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12961",
+    "nome": "VIA FRATELLI BANDIERA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13753",
+    "nome": "VIA FRATELLI BRONZETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12474",
+    "nome": "VIA FRATELLI CECCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14524",
+    "nome": "VIA FRATELLI DANDOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12488",
+    "nome": "VIA FRATELLI POERIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12812",
+    "nome": "VIA FRATELLI RUFFINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12607",
+    "nome": "VIA FRATELLI STUPARICH",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14300",
+    "nome": "VIA FRATELLI ZENO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12889",
+    "nome": "VIA FRIULI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12733",
+    "nome": "VIA FRUSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12507",
+    "nome": "VIA GABRIELE D&#039;ANNUNZIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14347",
+    "nome": "VIA GABRIO CASATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14500",
+    "nome": "VIA GAETANO DONIZETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13104",
+    "nome": "VIA GAETANO FILANGIERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14264",
+    "nome": "VIA GAETANO MILANESI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12371",
+    "nome": "VIA GAETANO PILATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13885",
+    "nome": "VIA GALENO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13919",
+    "nome": "VIA GALILEO CHINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14472",
+    "nome": "VIA GARFAGNANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13304",
+    "nome": "VIA GASPARE ASELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13469",
+    "nome": "VIA GASPARE GOZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13644",
+    "nome": "VIA GASPARE LUIGI SPONTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14050",
+    "nome": "VIA GASPERO BARBERA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14133",
+    "nome": "VIA GHERARDO CAPONSACCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12423",
+    "nome": "VIA GHERARDO SILVANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12908",
+    "nome": "VIA GHERARDO STARNINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13966",
+    "nome": "VIA GHIBELLINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14512",
+    "nome": "VIA GIACOMO CARISSIMI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12846",
+    "nome": "VIA GIACOMO DEVOTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13949",
+    "nome": "VIA GIACOMO LEOPARDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12731",
+    "nome": "VIA GIACOMO MEDICI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13339",
+    "nome": "VIA GIACOMO ZANELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13557",
+    "nome": "VIA GIAMBATTISTA LULLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14220",
+    "nome": "VIA GIAMBATTISTA VICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13616",
+    "nome": "VIA GIAMBOLOGNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13562",
+    "nome": "VIA GIAMPAOLO ORSINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13542",
+    "nome": "VIA GIANDOMENICO FERRETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13632",
+    "nome": "VIA GIANDOMENICO ROMAGNOSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12599",
+    "nome": "VIA GIANFILIPPO BRACCINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12624",
+    "nome": "VIA GIANFRANCESCO PAGNINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14026",
+    "nome": "VIA GIANNOTTO BASTIANELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13711",
+    "nome": "VIA GIANO DELLA BELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13804",
+    "nome": "VIA GINO BONICHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14044",
+    "nome": "VIA GINO CAPPONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13907",
+    "nome": "VIA GIOACCHINO ROSSINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14389",
+    "nome": "VIA GIORDANO BRUNO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14045",
+    "nome": "VIA GIORGIO LA PIRA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13800",
+    "nome": "VIA GIORGIO PASQUALI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12851",
+    "nome": "VIA GIOSUE&#039; BORSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14385",
+    "nome": "VIA GIOSUE&#039; CARDUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13773",
+    "nome": "VIA GIOTTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14317",
+    "nome": "VIA GIOVAN BATTISTA AMICI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13991",
+    "nome": "VIA GIOVAN BATTISTA FAGIUOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13533",
+    "nome": "VIA GIOVAN BATTISTA FOGGINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14248",
+    "nome": "VIA GIOVAN BATTISTA GELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13950",
+    "nome": "VIA GIOVAN BATTISTA NICCOLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12493",
+    "nome": "VIA GIOVAN BATTISTA PERGOLESI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12617",
+    "nome": "VIA GIOVAN BATTISTA RAMUSIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12802",
+    "nome": "VIA GIOVAN FILIPPO MARITI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12348",
+    "nome": "VIA GIOVANNI ALDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12918",
+    "nome": "VIA GIOVANNI ALFONSO BORELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14107",
+    "nome": "VIA GIOVANNI ANCILLOTTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13659",
+    "nome": "VIA GIOVANNI ANTONIO DOSIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12644",
+    "nome": "VIA GIOVANNI ANTONIO SOGLIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13081",
+    "nome": "VIA GIOVANNI BALDASSERONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13156",
+    "nome": "VIA GIOVANNI BECCIOLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13910",
+    "nome": "VIA GIOVANNI BERCHET",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12912",
+    "nome": "VIA GIOVANNI BERTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12724",
+    "nome": "VIA GIOVANNI BOCCACCIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13657",
+    "nome": "VIA GIOVANNI BOLDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13787",
+    "nome": "VIA GIOVANNI BOVIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14458",
+    "nome": "VIA GIOVANNI CASELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14416",
+    "nome": "VIA GIOVANNI COSTETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12623",
+    "nome": "VIA GIOVANNI DA EMPOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12652",
+    "nome": "VIA GIOVANNI DA MILANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14374",
+    "nome": "VIA GIOVANNI DA MONTORSOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14350",
+    "nome": "VIA GIOVANNI DA VERRAZZANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14365",
+    "nome": "VIA GIOVANNI DALLE BANDE NERE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13847",
+    "nome": "VIA GIOVANNI DE&#039; MARIGNOLLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12431",
+    "nome": "VIA GIOVANNI DELL&#039;OPERA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13059",
+    "nome": "VIA GIOVANNI DELLA CASA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13647",
+    "nome": "VIA GIOVANNI DUPRE&#039;",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12484",
+    "nome": "VIA GIOVANNI FABBRONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13640",
+    "nome": "VIA GIOVANNI FATTORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12746",
+    "nome": "VIA GIOVANNI GIOLITTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14370",
+    "nome": "VIA GIOVANNI INGHIRAMI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13769",
+    "nome": "VIA GIOVANNI LANZA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14198",
+    "nome": "VIA GIOVANNI LORENZONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12432",
+    "nome": "VIA GIOVANNI MARIA BUTTERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12752",
+    "nome": "VIA GIOVANNI MARIA CECCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12797",
+    "nome": "VIA GIOVANNI MARIA LAMPREDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14594",
+    "nome": "VIA GIOVANNI MARRADI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13444",
+    "nome": "VIA GIOVANNI MICHELUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13139",
+    "nome": "VIA GIOVANNI PAISIELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12632",
+    "nome": "VIA GIOVANNI PAPINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12347",
+    "nome": "VIA GIOVANNI PASCOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12309",
+    "nome": "VIA GIOVANNI PIANTANIDA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14267",
+    "nome": "VIA GIOVANNI PICO DELLA MIRANDOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12379",
+    "nome": "VIA GIOVANNI PRATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14141",
+    "nome": "VIA GIOVANNI SEGANTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12489",
+    "nome": "VIA GIOVANNI SERCAMBI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14006",
+    "nome": "VIA GIOVANNI SGAMBATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14580",
+    "nome": "VIA GIOVANNI STRADANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14460",
+    "nome": "VIA GIOVANNI TARGIONI TOZZETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14073",
+    "nome": "VIA GIROLAMO BENIVIENI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13845",
+    "nome": "VIA GIROLAMO FRACASTORO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12556",
+    "nome": "VIA GIROLAMO MINERVINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14195",
+    "nome": "VIA GIROLAMO SEGATO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12684",
+    "nome": "VIA GIROLAMO TARTAGLIONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13033",
+    "nome": "VIA GIROLAMO VITELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12916",
+    "nome": "VIA GIULIANO BUGIARDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13467",
+    "nome": "VIA GIULIO BECHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13426",
+    "nome": "VIA GIULIO CACCINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13900",
+    "nome": "VIA GIULIO CESARE VANINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13586",
+    "nome": "VIA GIUSEPPE ABBATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14368",
+    "nome": "VIA GIUSEPPE BANDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14467",
+    "nome": "VIA GIUSEPPE BARELLAI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13382",
+    "nome": "VIA GIUSEPPE BEZZUOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12464",
+    "nome": "VIA GIUSEPPE CAMPANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14346",
+    "nome": "VIA GIUSEPPE CESARE ABBA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13587",
+    "nome": "VIA GIUSEPPE DE NITTIS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14333",
+    "nome": "VIA GIUSEPPE DOLFI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13736",
+    "nome": "VIA GIUSEPPE GALLIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13696",
+    "nome": "VIA GIUSEPPE GARIBALDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13522",
+    "nome": "VIA GIUSEPPE GAZZERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14137",
+    "nome": "VIA GIUSEPPE GIUSTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14025",
+    "nome": "VIA GIUSEPPE GRANDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13823",
+    "nome": "VIA GIUSEPPE LA FARINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13389",
+    "nome": "VIA GIUSEPPE MANFREDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12873",
+    "nome": "VIA GIUSEPPE MARTUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14483",
+    "nome": "VIA GIUSEPPE MAZZONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14592",
+    "nome": "VIA GIUSEPPE MONTANELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13468",
+    "nome": "VIA GIUSEPPE PARINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12274",
+    "nome": "VIA GIUSEPPE PESCETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13424",
+    "nome": "VIA GIUSEPPE PIETRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22527",
+    "nome": "VIA GIUSEPPE PIETRI (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14262",
+    "nome": "VIA GIUSEPPE RICHA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13225",
+    "nome": "VIA GIUSEPPE RIGUTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13559",
+    "nome": "VIA GIUSEPPE SAVERIO MERCADANTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12633",
+    "nome": "VIA GIUSEPPE SIRTORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12630",
+    "nome": "VIA GIUSEPPE TARTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14422",
+    "nome": "VIA GIUSEPPE ZANARDELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13162",
+    "nome": "VIA GIUSTO D&#039;ANDREA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13080",
+    "nome": "VIA GIUSTO DE&#039; MENABUOI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13959",
+    "nome": "VIA GOFFREDO MAMELI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13978",
+    "nome": "VIA GOITO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13863",
+    "nome": "VIA GORO DATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13422",
+    "nome": "VIA GRAN BRETAGNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12665",
+    "nome": "VIA GRECCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12755",
+    "nome": "VIA GRECIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13371",
+    "nome": "VIA GROSSETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12551",
+    "nome": "VIA GUALDRADA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14407",
+    "nome": "VIA GUARDAVIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13421",
+    "nome": "VIA GUBBIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13619",
+    "nome": "VIA GUELFA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12707",
+    "nome": "VIA GUGLIELMO CHIARINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13929",
+    "nome": "VIA GUGLIELMO FERRERO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14419",
+    "nome": "VIA GUGLIELMO JERVIS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12260",
+    "nome": "VIA GUGLIELMO MARCONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12717",
+    "nome": "VIA GUGLIELMO MASSAIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12339",
+    "nome": "VIA GUGLIELMO PEPE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14048",
+    "nome": "VIA GUIDO ALESSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12603",
+    "nome": "VIA GUIDO BANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14079",
+    "nome": "VIA GUIDO BIAGI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12494",
+    "nome": "VIA GUIDO CAVALCANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14572",
+    "nome": "VIA GUIDO DA SIENA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12796",
+    "nome": "VIA GUIDO GUINIZZELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13140",
+    "nome": "VIA GUIDO MONACO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12560",
+    "nome": "VIA GUILLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14421",
+    "nome": "VIA GUSTAVO CONSOLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13618",
+    "nome": "VIA GUSTAVO MODENA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14610",
+    "nome": "VIA IACOPO CHIMENTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13793",
+    "nome": "VIA IACOPO DA DIACCETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13774",
+    "nome": "VIA IACOPO DEL MEGLIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13915",
+    "nome": "VIA IACOPO NARDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13898",
+    "nome": "VIA IACOPO PERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13626",
+    "nome": "VIA IGNAZIO DANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14153",
+    "nome": "VIA IPPOLITO NIEVO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13416",
+    "nome": "VIA IPPOLITO PINDEMONTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12480",
+    "nome": "VIA IPPOLITO ROSELLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13816",
+    "nome": "VIA IRLANDA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12401",
+    "nome": "VIA ISONZO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13482",
+    "nome": "VIA ITALO PICCAGLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14098",
+    "nome": "VIA IUGOSLAVIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12832",
+    "nome": "VIA IVANOE BONOMI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13471",
+    "nome": "VIA KASSEL",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12651",
+    "nome": "VIA KIEV",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14526",
+    "nome": "VIA KYOTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12835",
+    "nome": "VIA LAPO DA CASTIGLIONCHIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14138",
+    "nome": "VIA LAURA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12306",
+    "nome": "VIA LAURO ADOLFO DE BOSIS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14397",
+    "nome": "VIA LAZZARO SPALLANZANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14249",
+    "nome": "VIA LEONARDO BRUNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13735",
+    "nome": "VIA LEONARDO DA VINCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13765",
+    "nome": "VIA LEONARDO FIBONACCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12664",
+    "nome": "VIA LEONARDO XIMENES",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12455",
+    "nome": "VIA LEONE DELAGRANGE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13250",
+    "nome": "VIA LEONE PANCALDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13642",
+    "nome": "VIA LEONE X",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14024",
+    "nome": "VIA LEOPOLDO PELLAS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14027",
+    "nome": "VIA LEOPOLDO TRAVERSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13525",
+    "nome": "VIA LETTONIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12738",
+    "nome": "VIA LIBERALE DA VERONA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12825",
+    "nome": "VIA LIBERO ANDREOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13442",
+    "nome": "VIA LIGURIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14163",
+    "nome": "VIA LIPPI E MACIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13964",
+    "nome": "VIA LIPPO MEMMI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23555",
+    "nome": "VIA LITUANIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13301",
+    "nome": "VIA LIVENZA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12530",
+    "nome": "VIA LIVORNO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13068",
+    "nome": "VIA LOMBARDIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22528",
+    "nome": "VIA LOMBARDIA (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23214",
+    "nome": "VIA LORELLA DE LUCA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13309",
+    "nome": "VIA LORENZO BARDELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13537",
+    "nome": "VIA LORENZO BARTOLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12388",
+    "nome": "VIA LORENZO BELLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13069",
+    "nome": "VIA LORENZO DI CREDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13641",
+    "nome": "VIA LORENZO IL MAGNIFICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13660",
+    "nome": "VIA LORENZO MAITANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12350",
+    "nome": "VIA LORENZO VIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13036",
+    "nome": "VIA LUCA GHINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13461",
+    "nome": "VIA LUCA GIORDANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14391",
+    "nome": "VIA LUCA LANDUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12361",
+    "nome": "VIA LUCA SIGNORELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13282",
+    "nome": "VIA LUCCA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22800",
+    "nome": "VIA LUCCHESE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13446",
+    "nome": "VIA LUCIANO BAUSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14206",
+    "nome": "VIA LUCIANO MANARA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13719",
+    "nome": "VIA LUCREZIA MAZZANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12555",
+    "nome": "VIA LUDOVICO CIGOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14372",
+    "nome": "VIA LUIGI ALAMANNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12926",
+    "nome": "VIA LUIGI BIADI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14180",
+    "nome": "VIA LUIGI BOCCHERINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12461",
+    "nome": "VIA LUIGI CALDIERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13725",
+    "nome": "VIA LUIGI CARLO FARINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12790",
+    "nome": "VIA LUIGI CASTALDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14188",
+    "nome": "VIA LUIGI EINAUDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12990",
+    "nome": "VIA LUIGI FEDERICO MENABREA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14110",
+    "nome": "VIA LUIGI GALVANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13111",
+    "nome": "VIA LUIGI GORDIGIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13413",
+    "nome": "VIA LUIGI GUGLIELMO CAMBRAY DIGNY",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13538",
+    "nome": "VIA LUIGI LA VISTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13235",
+    "nome": "VIA LUIGI LANZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14194",
+    "nome": "VIA LUIGI MICHELAZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14129",
+    "nome": "VIA LUIGI MORANDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12960",
+    "nome": "VIA LUIGI PAMPALONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14227",
+    "nome": "VIA LUIGI PASSERINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13011",
+    "nome": "VIA LUIGI PIRANDELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13700",
+    "nome": "VIA LUIGI PULCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13858",
+    "nome": "VIA LUIGI SALVATORE CHERUBINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13201",
+    "nome": "VIA LUIGI SETTEMBRINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12719",
+    "nome": "VIA LUISA SANFELICE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13337",
+    "nome": "VIA LUNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12744",
+    "nome": "VIA LUNGA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14450",
+    "nome": "VIA LUNGO IL MUGNONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12236",
+    "nome": "VIA LUNGO L&#039;AFFRICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14413",
+    "nome": "VIA LUNGO LE MURA DI SANTA ROSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14446",
+    "nome": "VIA LUPO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14612",
+    "nome": "VIA LUSSEMBURGO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13313",
+    "nome": "VIA MACEDONIO MELLONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14398",
+    "nome": "VIA MAESTRI DEL LAVORO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13289",
+    "nome": "VIA MAFALDA DI SAVOIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13625",
+    "nome": "VIA MAFFEI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14340",
+    "nome": "VIA MAFFIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12463",
+    "nome": "VIA MAGELLANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13571",
+    "nome": "VIA MAGENTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13556",
+    "nome": "VIA MAGGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13553",
+    "nome": "VIA MANNELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12342",
+    "nome": "VIA MARAGLIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12714",
+    "nome": "VIA MARCELLO MALPIGHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12808",
+    "nome": "VIA MARCHE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12605",
+    "nome": "VIA MARCO DA GAGLIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14271",
+    "nome": "VIA MARCO MINGHETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14250",
+    "nome": "VIA MARGARITONE D&#039;AREZZO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13170",
+    "nome": "VIA MARIO CALDERARA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13244",
+    "nome": "VIA MARIO CASTELNUOVO TEDESCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12305",
+    "nome": "VIA MARIO DE BERNARDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12303",
+    "nome": "VIA MARIO FABIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13713",
+    "nome": "VIA MARIO MOROSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14097",
+    "nome": "VIA MARIO ORSINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12333",
+    "nome": "VIA MARIO PAGANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14318",
+    "nome": "VIA MARIO PRATESI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13904",
+    "nome": "VIA MARIO ROSELLI CECCONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12949",
+    "nome": "VIA MARIO SBRILLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13846",
+    "nome": "VIA MARIO ULIVELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13967",
+    "nome": "VIA MARIOTTO ALBERTINELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12786",
+    "nome": "VIA MARIOTTO DI NARDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14228",
+    "nome": "VIA MARSALA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14417",
+    "nome": "VIA MARSILIO FICINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12512",
+    "nome": "VIA MASACCIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13408",
+    "nome": "VIA MASO DI BANCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14357",
+    "nome": "VIA MASO FINIGUERRA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14053",
+    "nome": "VIA MASOLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12516",
+    "nome": "VIA MASSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12369",
+    "nome": "VIA MATTEO CIVITALI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14336",
+    "nome": "VIA MATTEO DI GIOVANNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12650",
+    "nome": "VIA MATTEO MARANGONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12871",
+    "nome": "VIA MATTEO NIGETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13782",
+    "nome": "VIA MAZZETTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13891",
+    "nome": "VIA MEDARDO ROSSO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14462",
+    "nome": "VIA MELCHIORRE GIOIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13578",
+    "nome": "VIA MELEGNANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13594",
+    "nome": "VIA MICHELANGIOLO BUONARROTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12954",
+    "nome": "VIA MICHELE AMARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14232",
+    "nome": "VIA MICHELE DI LANDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12710",
+    "nome": "VIA MICHELE MERCATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13810",
+    "nome": "VIA MILAZZO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13710",
+    "nome": "VIA MINIMA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14401",
+    "nome": "VIA MINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12490",
+    "nome": "VIA MOLISE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12869",
+    "nome": "VIA MONFERRATO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12921",
+    "nome": "VIA MONNA DATA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "25692",
+    "nome": "VIA MONNA TESSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14571",
+    "nome": "VIA MONSIGNOR LETO CASINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12894",
+    "nome": "VIA MONTANARA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14096",
+    "nome": "VIA MONTEBELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13541",
+    "nome": "VIA MONTEGRAPPA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13906",
+    "nome": "VIA MONTELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13942",
+    "nome": "VIA MONTEPULCIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12822",
+    "nome": "VIA MORTULI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13443",
+    "nome": "VIA MUGELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12800",
+    "nome": "VIA MUZIO CLEMENTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13186",
+    "nome": "VIA NANCHINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13160",
+    "nome": "VIA NATHAN CASSUTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13622",
+    "nome": "VIA NAZIONALE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14521",
+    "nome": "VIA NERI DI BICCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12929",
+    "nome": "VIA NICCOLO CANNICCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12885",
+    "nome": "VIA NICCOLO DA TOLENTINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13839",
+    "nome": "VIA NICCOLO DA UZZANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12713",
+    "nome": "VIA NICCOLO JOMMELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12486",
+    "nome": "VIA NICCOLO PAGANINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13191",
+    "nome": "VIA NICCOLO PICCINNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13962",
+    "nome": "VIA NICCOLO STENONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12864",
+    "nome": "VIA NICCOLO TRIBOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12831",
+    "nome": "VIA NICOLA PISANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13922",
+    "nome": "VIA NICOLA PORPORA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13807",
+    "nome": "VIA NICOLA TAGLIAFERRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13958",
+    "nome": "VIA NINO BIXIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14173",
+    "nome": "VIA NORVEGIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14359",
+    "nome": "VIA NOVE FEBBRAIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12537",
+    "nome": "VIA ODOARDO BECCARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14261",
+    "nome": "VIA ODORICO DA PORDENONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13367",
+    "nome": "VIA OLANDA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14606",
+    "nome": "VIA ORAZIO DOGLIOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12323",
+    "nome": "VIA ORAZIO VECCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13957",
+    "nome": "VIA OTTAVIANO FABRIZIO MOSSOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14383",
+    "nome": "VIA OTTAVIO RINUCCINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14525",
+    "nome": "VIA OTTONE ROSAI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12497",
+    "nome": "VIA OTTORINO RESPIGHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13708",
+    "nome": "VIA PACINO DI BUONAGUIDA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13376",
+    "nome": "VIA PADRE ERNESTO BALDUCCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12606",
+    "nome": "VIA PADRE GIUSEPPE BOFFITO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14238",
+    "nome": "VIA PALAZZUOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14226",
+    "nome": "VIA PALESTRO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12302",
+    "nome": "VIA PANCIATICHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12910",
+    "nome": "VIA PAOLO BOSELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12327",
+    "nome": "VIA PAOLO MANTEGAZZA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12753",
+    "nome": "VIA PAOLO MASCAGNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12524",
+    "nome": "VIA PAOLO SCHIAVO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14605",
+    "nome": "VIA PAOLO TOSCANELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14382",
+    "nome": "VIA PASTRENGO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13843",
+    "nome": "VIA PERLONE ZIPOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12372",
+    "nome": "VIA PIAGENTINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12320",
+    "nome": "VIA PIEMONTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13023",
+    "nome": "VIA PIENZA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13615",
+    "nome": "VIA PIER ANTONIO MICHELI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13857",
+    "nome": "VIA PIER CAPPONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13286",
+    "nome": "VIA PIER FORTUNATO CALVI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13179",
+    "nome": "VIA PIERANDREA MATTIOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14178",
+    "nome": "VIA PIERLUIGI DA PALESTRINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14158",
+    "nome": "VIA PIERO CIRONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13418",
+    "nome": "VIA PIERO DI COSIMO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14589",
+    "nome": "VIA PIERO GIANFIGLIAZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13093",
+    "nome": "VIA PIERO GOBETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12876",
+    "nome": "VIA PIERO JAHIER",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14480",
+    "nome": "VIA PIERO PUCCIONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13704",
+    "nome": "VIA PIETRAPIANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14488",
+    "nome": "VIA PIETRO BENVENUTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12888",
+    "nome": "VIA PIETRO BETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13733",
+    "nome": "VIA PIETRO CARNESECCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14291",
+    "nome": "VIA PIETRO COLLETTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13721",
+    "nome": "VIA PIETRO DA CORTONA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14000",
+    "nome": "VIA PIETRO DELLA VALLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12272",
+    "nome": "VIA PIETRO FANFANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13142",
+    "nome": "VIA PIETRO FRANCAVILLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14268",
+    "nome": "VIA PIETRO GIORDANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14550",
+    "nome": "VIA PIETRO GROCCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13649",
+    "nome": "VIA PIETRO MARONCELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13299",
+    "nome": "VIA PIETRO MASTRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12386",
+    "nome": "VIA PIETRO METASTASIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13419",
+    "nome": "VIA PIETRO PANCRAZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12887",
+    "nome": "VIA PIETRO SAVORGNAN DI BRAZZA&#039;",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14546",
+    "nome": "VIA PIETRO THOUAR",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13645",
+    "nome": "VIA PIETRO TOSELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12517",
+    "nome": "VIA PIO FEDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13726",
+    "nome": "VIA PIO RAJNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14464",
+    "nome": "VIA PIONIERI DELL&#039;AVIAZIONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13820",
+    "nome": "VIA PIPPO SPANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12376",
+    "nome": "VIA PISANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12319",
+    "nome": "VIA PISTOIESE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22530",
+    "nome": "VIA PISTOIESE (PERCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12868",
+    "nome": "VIA PLINIO NOMELLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13354",
+    "nome": "VIA POGGIO BRACCIOLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13373",
+    "nome": "VIA POLICARPO PETROCCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13882",
+    "nome": "VIA POLONIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13628",
+    "nome": "VIA POMPEO NERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14156",
+    "nome": "VIA PONTASSIEVE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12299",
+    "nome": "VIA PRATESE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12866",
+    "nome": "VIA PRATOVECCHIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12881",
+    "nome": "VIA PRIMO SETTEMBRE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13031",
+    "nome": "VIA PROSPERO ALPINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13916",
+    "nome": "VIA PUGLIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13712",
+    "nome": "VIA QUINTINO SELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12573",
+    "nome": "VIA RAFFAELLO FRANCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13627",
+    "nome": "VIA RAFFAELLO LAMBRUSCHINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12439",
+    "nome": "VIA RAFFAELLO SERNESI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13035",
+    "nome": "VIA RAGAZZI DEL &#039;99",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12588",
+    "nome": "VIA REGINALDO GIULIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13194",
+    "nome": "VIA REIMS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13635",
+    "nome": "VIA RENATO FANTONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14447",
+    "nome": "VIA RENATO FUCINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13727",
+    "nome": "VIA RICASOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12942",
+    "nome": "VIA RICCARDO ZANDONAI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13310",
+    "nome": "VIA RIGUCCIO GALLUZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12541",
+    "nome": "VIA RODOLFO TORTOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13899",
+    "nome": "VIA ROMANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13815",
+    "nome": "VIA ROMANIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13165",
+    "nome": "VIA ROSATI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12896",
+    "nome": "VIA ROSOLINO PILO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13614",
+    "nome": "VIA RUBACONTE DA MANDELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13998",
+    "nome": "VIA RUGGERO BARDAZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12911",
+    "nome": "VIA RUGGERO BONGHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12336",
+    "nome": "VIA RUGGERO LEONCAVALLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12764",
+    "nome": "VIA RUGGERO PANERAI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14593",
+    "nome": "VIA RUGGERO RUGGERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14239",
+    "nome": "VIA SALENTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13742",
+    "nome": "VIA SALLUSTIO BANDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12694",
+    "nome": "VIA SALVADOR ALLENDE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14455",
+    "nome": "VIA SALVESTRINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13754",
+    "nome": "VIA SALVI CRISTIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13230",
+    "nome": "VIA SAN BIAGIO A PETRIOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14085",
+    "nome": "VIA SAN BONAVENTURA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12759",
+    "nome": "VIA SAN BRUNONE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14323",
+    "nome": "VIA SAN CRISTOFANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12399",
+    "nome": "VIA SAN DAMIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12473",
+    "nome": "VIA SAN DOMENICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14568",
+    "nome": "VIA SAN DONATO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12920",
+    "nome": "VIA SAN FRANCESCO D&#039;ASSISI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12618",
+    "nome": "VIA SAN FRANCESCO SAVERIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12878",
+    "nome": "VIA SAN GAGGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13558",
+    "nome": "VIA SAN GALLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13308",
+    "nome": "VIA SAN GERVASIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14466",
+    "nome": "VIA SAN GIMIGNANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13677",
+    "nome": "VIA SAN GIOVAN GUALBERTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14503",
+    "nome": "VIA SAN GIOVANNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13255",
+    "nome": "VIA SAN GIOVANNI BOSCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13168",
+    "nome": "VIA SAN GIOVANNI DA CAPISTRANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13100",
+    "nome": "VIA SAN MARCELLINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13814",
+    "nome": "VIA SAN MARINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12542",
+    "nome": "VIA SAN MICHELE DELLE CAMPORA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13946",
+    "nome": "VIA SAN MINIATO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12307",
+    "nome": "VIA SAN PIERO A QUARACCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22548",
+    "nome": "VIA SAN PIERO A QUARACCHI (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13933",
+    "nome": "VIA SAN ZANOBI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14602",
+    "nome": "VIA SANDRO BOTTICELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12689",
+    "nome": "VIA SANDRO PERTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14338",
+    "nome": "VIA SANO DI PIETRO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14070",
+    "nome": "VIA SANT&#039;AGOSTINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14155",
+    "nome": "VIA SANT&#039;ANDREA A ROVEZZANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12554",
+    "nome": "VIA SANT&#039;ANGELO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14490",
+    "nome": "VIA SANT&#039;ANNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14139",
+    "nome": "VIA SANT&#039;ANTONINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13771",
+    "nome": "VIA SANT&#039;ONOFRIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13631",
+    "nome": "VIA SANTA CATERINA D&#039;ALESSANDRIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14566",
+    "nome": "VIA SANTA CATERINA DA SIENA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12544",
+    "nome": "VIA SANTA CHIARA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13992",
+    "nome": "VIA SANTA MARIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13956",
+    "nome": "VIA SANTA MONACA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13575",
+    "nome": "VIA SANTA REPARATA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13340",
+    "nome": "VIA SANTA VERDIANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12761",
+    "nome": "VIA SANTI DI TITO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12295",
+    "nome": "VIA SANTO STEFANO IN PANE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13912",
+    "nome": "VIA SANTORRE DI SANTAROSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12795",
+    "nome": "VIA SARDEGNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12324",
+    "nome": "VIA SCIPIO SIGHELE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14355",
+    "nome": "VIA SCIPIO SLATAPER",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12648",
+    "nome": "VIA SCIPIONE AMMIRATO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13624",
+    "nome": "VIA SCIPIONE DE&#039; RICCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13095",
+    "nome": "VIA SEBASTIANO DEL BUONO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12396",
+    "nome": "VIA SENESE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14438",
+    "nome": "VIA SER LAPO GAVACCIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13976",
+    "nome": "VIA SER LAPO MAZZEI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13908",
+    "nome": "VIA SER VENTURA MONACHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12462",
+    "nome": "VIA SESTESE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14339",
+    "nome": "VIA SGUAZZA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12321",
+    "nome": "VIA SICILIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14392",
+    "nome": "VIA SIDNEY SONNINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13338",
+    "nome": "VIA SIENA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12899",
+    "nome": "VIA SILVESTRO LEGA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13997",
+    "nome": "VIA SILVIO PELLICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14109",
+    "nome": "VIA SILVIO SPAVENTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12827",
+    "nome": "VIA SIMONE MARTINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13477",
+    "nome": "VIA SIMONE MOSCA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13715",
+    "nome": "VIA SIMONE SIGOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13609",
+    "nome": "VIA SINALUNGA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13565",
+    "nome": "VIA SOLFERINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12392",
+    "nome": "VIA SPAGNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13555",
+    "nome": "VIA SPINELLO ARETINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12927",
+    "nome": "VIA SPOLETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23526",
+    "nome": "VIA STEFANO BORGONOVO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13112",
+    "nome": "VIA STEFANO BUONSIGNORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13855",
+    "nome": "VIA STEFANO TURR",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13372",
+    "nome": "VIA STEFANO USSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12356",
+    "nome": "VIA STENTERELLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13989",
+    "nome": "VIA STRACCIATELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "23564",
+    "nome": "VIA SUOR ANNA LAPINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12550",
+    "nome": "VIA SUOR PLAUTILLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14539",
+    "nome": "VIA SVEZIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14042",
+    "nome": "VIA SVIZZERA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12293",
+    "nome": "VIA TADDEO ALDEROTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12402",
+    "nome": "VIA TAGLIAMENTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12820",
+    "nome": "VIA TELEMACO SIGNORINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12663",
+    "nome": "VIA TEODORO CARUEL",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13651",
+    "nome": "VIA TEODORO STORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12950",
+    "nome": "VIA TIMOTEO BERTELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13254",
+    "nome": "VIA TINO DI CAMAINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13252",
+    "nome": "VIA TITO SPERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12748",
+    "nome": "VIA TIZIANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14587",
+    "nome": "VIA TOMMASO CAMPANELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12903",
+    "nome": "VIA TORCICODA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13653",
+    "nome": "VIA TOSCANELLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12338",
+    "nome": "VIA TRENTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12334",
+    "nome": "VIA TRIESTE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14278",
+    "nome": "VIA TRIPOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14375",
+    "nome": "VIA TRISTANO CODIGNOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13353",
+    "nome": "VIA TURCHIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14182",
+    "nome": "VIA UBALDO MONTELATICI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14562",
+    "nome": "VIA UGO CORSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12425",
+    "nome": "VIA UGO FOSCOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12758",
+    "nome": "VIA UGO MOSCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13343",
+    "nome": "VIA UGUCCIONE DELLA FAGGIOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13088",
+    "nome": "VIA ULISSE CAMBI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13699",
+    "nome": "VIA UMBERTO BOCCIONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13466",
+    "nome": "VIA UMBERTO CROCETTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13447",
+    "nome": "VIA UMBERTO MADDALENA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13529",
+    "nome": "VIA UMBERTO SABA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13137",
+    "nome": "VIA UMBRIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13493",
+    "nome": "VIA UNGHERIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12385",
+    "nome": "VIA UNIONE SOVIETICA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13968",
+    "nome": "VIA URBANO RATTAZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13359",
+    "nome": "VIA VAL DI MARINA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12314",
+    "nome": "VIA VAL DI SIEVE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12479",
+    "nome": "VIA VALDEGOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12567",
+    "nome": "VIA VALDERA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14509",
+    "nome": "VIA VALDICHIANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12316",
+    "nome": "VIA VALDINIEVOLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13539",
+    "nome": "VIA VALDIPESA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12478",
+    "nome": "VIA VALERIO SANTELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14102",
+    "nome": "VIA VALFONDA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13360",
+    "nome": "VIA VALLOMBROSA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13788",
+    "nome": "VIA VAMBA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12300",
+    "nome": "VIA VASCO DE GAMA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12548",
+    "nome": "VIA VECCHIA DI POZZOLATICO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13385",
+    "nome": "VIA VENETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13791",
+    "nome": "VIA VENEZIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13347",
+    "nome": "VIA VENTI SETTEMBRE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13543",
+    "nome": "VIA VENTIQUATTRO MAGGIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14043",
+    "nome": "VIA VENTISETTE APRILE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14388",
+    "nome": "VIA VESPASIANO DA BISTICCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13862",
+    "nome": "VIA VILLARI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12341",
+    "nome": "VIA VINCENZIO BORGHINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13718",
+    "nome": "VIA VINCENZO BELLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14402",
+    "nome": "VIA VINCENZO CHIARUGI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13884",
+    "nome": "VIA VINCENZO CUOCO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13694",
+    "nome": "VIA VINCENZO DA FILICAIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14203",
+    "nome": "VIA VINCENZO GIOBERTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14287",
+    "nome": "VIA VINCENZO MONTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14477",
+    "nome": "VIA VINCENZO SALVAGNOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14080",
+    "nome": "VIA VIRGILIO BIAGINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12460",
+    "nome": "VIA VITTORIA DELLA ROVERE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13849",
+    "nome": "VIA VITTORIO ALFIERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14170",
+    "nome": "VIA VITTORIO BARBIERI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12865",
+    "nome": "VIA VITTORIO CORCOS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12326",
+    "nome": "VIA VITTORIO EMANUELE II",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12964",
+    "nome": "VIA VITTORIO EMANUELE ORLANDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14015",
+    "nome": "VIA VITTORIO FOSSOMBRONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13636",
+    "nome": "VIA VITTORIO LOCCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12250",
+    "nome": "VIA VOLTERRANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13752",
+    "nome": "VIA VOLTURNO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12421",
+    "nome": "VIA ZANOBI DA STRADA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13909",
+    "nome": "VIA ZARA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13240",
+    "nome": "VIALE ALDO PALAZZESCHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "22547",
+    "nome": "VIALE ALDO PALAZZESCHI (PARCHEGGIO)",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12856",
+    "nome": "VIALE ALEARDO ALEARDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13212",
+    "nome": "VIALE ALESSANDRO GUIDONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12345",
+    "nome": "VIALE ALESSANDRO VOLTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12904",
+    "nome": "VIALE ANTONIO GRAMSCI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12237",
+    "nome": "VIALE AUGUSTO RIGHI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13052",
+    "nome": "VIALE BELFIORE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12400",
+    "nome": "VIALE BENEDETTO CROCE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13886",
+    "nome": "VIALE BERNARDO SEGNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12590",
+    "nome": "VIALE CALATAFIMI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12682",
+    "nome": "VIALE CARDINAL LEOPOLDO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12721",
+    "nome": "VIALE CORSICA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14212",
+    "nome": "VIALE DEI CADORNA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12510",
+    "nome": "VIALE DEI MILLE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12773",
+    "nome": "VIALE DEI PINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12863",
+    "nome": "VIALE DEI PLATANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12410",
+    "nome": "VIALE DEI TANINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12427",
+    "nome": "VIALE DEL POGGIO IMPERIALE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13325",
+    "nome": "VIALE DELL&#039;ALBERETA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12852",
+    "nome": "VIALE DELLA GIOVINE ITALIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13154",
+    "nome": "VIALE DELLA TOSCANA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12772",
+    "nome": "VIALE DELLE MAGNOLIE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12498",
+    "nome": "VIALE DON GIOVANNI MINZONI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12446",
+    "nome": "VIALE DONATO GIANNOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14554",
+    "nome": "VIALE DUCA DEGLI ABRUZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12499",
+    "nome": "VIALE EDMONDO DE AMICIS",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13348",
+    "nome": "VIALE ELEONORA DUSE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12515",
+    "nome": "VIALE ENRICO CIALDINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12382",
+    "nome": "VIALE EUROPA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13184",
+    "nome": "VIALE EVANGELISTA TORRICELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12703",
+    "nome": "VIALE FILIPPO STROZZI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12374",
+    "nome": "VIALE FRANCESCO PETRARCA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13155",
+    "nome": "VIALE FRANCESCO REDI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13133",
+    "nome": "VIALE FRANCESCO TALENTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12580",
+    "nome": "VIALE FRATELLI ROSSELLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13431",
+    "nome": "VIALE GIACOMO MATTEOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12281",
+    "nome": "VIALE GIOVAN BATTISTA MORGAGNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12645",
+    "nome": "VIALE GIOVANNI AMENDOLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13480",
+    "nome": "VIALE GIOVANNI LAMI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13634",
+    "nome": "VIALE GIOVANNI MILTON",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13239",
+    "nome": "VIALE GIOVANNI VERGA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12901",
+    "nome": "VIALE GIUSEPPE MAZZINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12449",
+    "nome": "VIALE LORENZO MAGALOTTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12780",
+    "nome": "VIALE LUDOVICO ARIOSTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12288",
+    "nome": "VIALE LUIGI GORI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12522",
+    "nome": "VIALE MALTA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12352",
+    "nome": "VIALE MANFREDO FANTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12660",
+    "nome": "VIALE MICHELANGIOLO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13108",
+    "nome": "VIALE PALMIRO TOGLIATTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13054",
+    "nome": "VIALE PIETRO NENNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12365",
+    "nome": "VIALE PIOMBINO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12451",
+    "nome": "VIALE RAFFAELLO SANZIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13238",
+    "nome": "VIALE SPARTACO LAVAGNINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14177",
+    "nome": "VIALE TERENZIO MAMIANI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13887",
+    "nome": "VIALE UGO BASSI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12235",
+    "nome": "VIALE UGO OJETTI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12447",
+    "nome": "VIALE VASCO PRATOLINI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12529",
+    "nome": "VIALETTO AMERIGO GOMEZ",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12781",
+    "nome": "VIALETTO DEI CORBEZZOLI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12637",
+    "nome": "VIALETTO YORICK",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12849",
+    "nome": "VICOLO DEL BORGHETTO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13829",
+    "nome": "VICOLO DEL CANNETO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14390",
+    "nome": "VICOLO DEL TIRATOIO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13828",
+    "nome": "VICOLO DELLA CAVA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13366",
+    "nome": "VIUZZO DEI BRUNI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14591",
+    "nome": "VIUZZO DEL CROCIFISSO DELLE TORRI",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12483",
+    "nome": "VIUZZO DELLA CAVALLA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14353",
+    "nome": "VIUZZO DELLA CROCE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12454",
+    "nome": "VIUZZO DELLE CALVANE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12743",
+    "nome": "VIUZZO DELLE CANNE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13273",
+    "nome": "VIUZZO DELLE CASE NUOVE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13817",
+    "nome": "VIUZZO DELLE LAME",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13639",
+    "nome": "VIUZZO DELLE LANE",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "13524",
+    "nome": "VIUZZO DI CARRAIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14609",
+    "nome": "VIUZZO DI SANTA MARIA A CINTOIA",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "12505",
+    "nome": "VIUZZO DI UGNANO",
+    "tipo_strada": "EXQ"
+  },
+  {
+    "id_strada": "14352",
+    "nome": "VOLTA DEI TINTORI",
+    "tipo_strada": "EXQ"
+  }
+]

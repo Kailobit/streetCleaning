@@ -26,20 +26,13 @@
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
             "assets": [
-              {
-                "glob": "**/*",
-                "input": "public"
-              }
+              "src/assets",
+              "src/favicon.ico"
             ],
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": [],
-            "server": "src/main.server.ts",
-            "outputMode": "server",
-            "ssr": {
-              "entry": "src/server.ts"
-            }
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -72,7 +65,8 @@
               "buildTarget": "puliziaStrade:build:production"
             },
             "development": {
-              "buildTarget": "puliziaStrade:build:development"
+              "buildTarget": "puliziaStrade:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"
@@ -103,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "8a46301e-9784-4093-aede-acc99112e842"
   }
 }

@@ -1,0 +1,7 @@
+{
+    "/puliziastrade": {
+        "target": "https://www2.aliaserviziambientali.it",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
