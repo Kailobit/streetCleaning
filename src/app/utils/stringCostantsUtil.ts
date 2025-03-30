@@ -3,9 +3,7 @@ const DATASET = "pulizia_strade";
 const KML_EXTENSION = ".kml";
 const JSON_EXTENSION = ".json";
 const STREET_CLEANING_DATA = "streetCleaningData";
-const PLACEMARK = "rawPlacemarks";
 export const STREET_CLEANING_DATA_FILENAME = `${STREET_CLEANING_DATA}${JSON_EXTENSION}`;
-export const PLACEMARK_FILENAME = `${PLACEMARK}${JSON_EXTENSION}`;
 export const DOWNLOAD_TYPE = "application/json";
 export const ANCHOR = "a";
 
@@ -13,8 +11,8 @@ export const ANCHOR = "a";
 // LOCAL
 const ASSETS_URL = "assets/";
 export const LocalEndpoints = {
-    getDatasetFile: `${ASSETS_URL}${DATASET}`,
-    getPlacemarksFile: `${ASSETS_URL}${PLACEMARK_FILENAME}`,
+    getDatasetFile: `${ASSETS_URL}${DATASET}${KML_EXTENSION}`,
+    getStreetCleaningDataFile: `${ASSETS_URL}${STREET_CLEANING_DATA_FILENAME}`,
 }
 
 // HTTP

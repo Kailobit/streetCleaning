@@ -4,7 +4,6 @@ import { DownloadService } from './download.service';
 import { LocalDataRetrieverService } from './localDataRetriever.service';
 import { STREET_CLEANING_DATA_FILENAME } from '../utils/stringCostantsUtil';
 import { from, switchMap } from 'rxjs';
-import { ParsedPlacemarkService } from './parsed-placemarks.service';
 
 @Injectable({
   providedIn: 'root'
@@ -15,17 +14,14 @@ export class DataManagerService {
     private localDataRetrieverService: LocalDataRetrieverService,
     private kmlParserService: KmlParserService,
     private downloadService: DownloadService,
-    private parsedPlacemarkService: ParsedPlacemarkService
   ) {}
 
   public downloadParsedDataset(): void {
-    this.localDataRetrieverService.getDatasetFile().subscribe(async kml => {
-      await this.kmlParserService.extractRawPlacemarks(kml);
+    this.localDataRetrieverService.getDatasetFile().pipe(
+      switchMap(xml => from(this.kmlParserService.getParsedSegments(xml)))
+    ).subscribe(parsed => {
+      this.downloadService.downloadJsonFile(parsed, STREET_CLEANING_DATA_FILENAME);
     });
-  }
-
-  public downloadParsedPlacemark(): void {
-    this.parsedPlacemarkService.parseAndDownloadSegments();
   }
 
 }

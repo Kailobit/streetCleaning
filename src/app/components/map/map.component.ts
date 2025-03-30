@@ -3,6 +3,7 @@ import * as L from 'leaflet';
 import { environment } from '../../../environments/environment';
 import { LocalDataRetrieverService } from '../../services/localDataRetriever.service';
 import { DataManagerService } from '../../services/data-manager.service';
+import { StreetCleaningSegment } from '../../services/kml-parser.service';
 
 @Component({
   selector: 'app-map',
@@ -15,6 +16,7 @@ export class MapComponent implements OnInit {
 
   constructor(
     private dataManagerService: DataManagerService,
+    private localDataRetrieverService: LocalDataRetrieverService 
   ) {}
 
   ngOnInit(): void {
@@ -28,9 +30,35 @@ export class MapComponent implements OnInit {
         attribution: '&copy; OpenStreetMap contributors'
       }).addTo(this.map);
 
-      this.dataManagerService.downloadParsedPlacemark();
-      
+      /* this.downloadDataset(); */
+      this.localDataRetrieverService.getStreetCleaningData().subscribe(streetCleaningData => {
+        this.drawGeometries(streetCleaningData);
+      })
+
     });
+  }
+
+  private drawGeometries(streetCleaningData: StreetCleaningSegment[]): void {
+    for (const segment of streetCleaningData) {
+      const coordinates: L.LatLngExpression[] = segment.geometry.map(coord => [coord.lat, coord.lon]);
+  
+      if (coordinates.length === 0) continue;
+  
+      const color = this.getColoreByDataPulizia(new Date(segment.nextCleaning));
+  
+      const polyline = L.polyline(coordinates, {
+        color,
+        weight: 4,
+        opacity: 0.8
+      }).addTo(this.map);
+  
+      polyline.bindPopup(`${this.formatPopup(segment.streetName, new Date(segment.nextCleaning))}<br>🧭 Tratto: ${segment.stretchName}`);
+    }
+  }
+  
+
+  private downloadDataset(): void {
+    this.dataManagerService.downloadParsedDataset();
   }
 
   
@@ -50,8 +78,8 @@ export class MapComponent implements OnInit {
     return 'green';
   }
 
-  private formatPopup(via: string, data: Date): string {
-    if (data.getTime() === 0) return `📍 ${via}<br>Nessuna data disponibile`;
+  private formatPopup(streetName: string, data: Date): string {
+    if (data.getTime() === 0) return `📍 ${streetName}<br>Nessuna data disponibile`;
 
     const giorno = String(data.getDate()).padStart(2, '0');
     const mese = String(data.getMonth() + 1).padStart(2, '0');
@@ -59,16 +87,7 @@ export class MapComponent implements OnInit {
     const ore = String(data.getHours()).padStart(2, '0');
     const min = String(data.getMinutes()).padStart(2, '0');
 
-    return `📍 ${via}<br>Prossima pulizia: ${giorno}/${mese}/${anno} – ${ore}:${min}`;
+    return `📍 ${streetName}<br>Prossima pulizia: ${giorno}/${mese}/${anno} – ${ore}:${min}`;
   }
 
-  private normalizza(nome: string): string {
-    return nome
-      .normalize('NFD')
-      .replace(/[̀-ͯ]/g, '') // rimuove accenti
-      .replace(/\./g, '')
-      .replace(/\s+/g, ' ')
-      .trim()
-      .toUpperCase();
-  }
 }
