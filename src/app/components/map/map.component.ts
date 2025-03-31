@@ -3,7 +3,7 @@ import * as L from 'leaflet';
 import { environment } from '../../../environments/environment';
 import { LocalDataRetrieverService } from '../../services/localDataRetriever.service';
 import { DataManagerService } from '../../services/data-manager.service';
-import { StreetCleaningSegment } from '../../services/kml-parser.service';
+import { Street, StretchCleaningSegment, Geometry } from '../../services/kml-parser.service';
 
 @Component({
   selector: 'app-map',
@@ -16,8 +16,8 @@ export class MapComponent implements OnInit {
 
   constructor(
     private dataManagerService: DataManagerService,
-    private localDataRetrieverService: LocalDataRetrieverService 
-  ) {}
+    private localDataRetrieverService: LocalDataRetrieverService
+  ) { }
 
   ngOnInit(): void {
     import('leaflet').then(L => {
@@ -30,38 +30,98 @@ export class MapComponent implements OnInit {
         attribution: '&copy; OpenStreetMap contributors'
       }).addTo(this.map);
 
-      /* this.downloadDataset(); */
-      this.localDataRetrieverService.getStreetCleaningData().subscribe(streetCleaningData => {
-        this.drawGeometries(streetCleaningData);
-      })
-
+      this.localDataRetrieverService.getStreetCleaningData().subscribe(data => {
+        this.drawGeometries(this.filterDuplicateGeometries(data));
+      });
     });
   }
 
-  private drawGeometries(streetCleaningData: StreetCleaningSegment[]): void {
-    for (const segment of streetCleaningData) {
-      const coordinates: L.LatLngExpression[] = segment.geometry.map(coord => [coord.lat, coord.lon]);
-  
-      if (coordinates.length === 0) continue;
-  
-      const color = this.getColoreByDataPulizia(new Date(segment.nextCleaning));
-  
-      const polyline = L.polyline(coordinates, {
-        color,
-        weight: 4,
-        opacity: 0.8
-      }).addTo(this.map);
-  
-      polyline.bindPopup(`${this.formatPopup(segment.streetName, new Date(segment.nextCleaning))}<br>🧭 Tratto: ${segment.stretchName}`);
+  private drawGeometries(streets: Street[]): void {
+    for (const street of streets) {
+      for (const stretch of street.stretches) {
+        const color = this.getColoreByDataPulizia(new Date(stretch.nextCleaning));
+
+        for (const geometryItem of stretch.geometries) {
+          const coordinates: L.LatLngExpression[] = geometryItem.geometry.map(coord => [coord.lat, coord.lon]);
+          if (!coordinates.length) continue;
+
+          const polyline = L.polyline(coordinates, {
+            color,
+            weight: 4,
+            opacity: 0.8
+          }).addTo(this.map);
+
+          const popupContent = `
+            📍 ${street.streetName}<br>
+            🧭 Tratto: ${stretch.stretchName}<br>
+            🗓️ Prossima pulizia: ${this.formatDate(new Date(stretch.nextCleaning))}
+          `;
+
+          polyline.bindPopup(popupContent);
+        }
+      }
     }
   }
-  
+
+  private filterDuplicateGeometries(streets: Street[]): Street[] {
+    const geometryMap = new Map<string, { stretch: StretchCleaningSegment; streetName: string }>();
+
+    for (const street of streets) {
+      const filteredStretches: StretchCleaningSegment[] = [];
+
+      for (const stretch of street.stretches) {
+        const uniqueGeometries: Geometry[] = [];
+
+        for (const geometryItem of stretch.geometries) {
+          const geometryKey = geometryItem.geometry.map(coord => `${coord.lat.toFixed(6)},${coord.lon.toFixed(6)}`).join(';');
+
+          const existing = geometryMap.get(geometryKey);
+          const currentTime = new Date(stretch.nextCleaning).getTime();
+
+          if (!existing) {
+            uniqueGeometries.push(geometryItem);
+            geometryMap.set(geometryKey, { stretch, streetName: street.streetName });
+          } else {
+            const existingTime = new Date(existing.stretch.nextCleaning).getTime();
+
+            if (currentTime < existingTime) {
+              geometryMap.set(geometryKey, { stretch, streetName: street.streetName });
+            } else if (currentTime === existingTime && existing.streetName !== street.streetName) {
+              uniqueGeometries.push(geometryItem);
+            }
+          }
+        }
+
+        if (uniqueGeometries.length > 0) {
+          filteredStretches.push({
+            ...stretch,
+            geometries: uniqueGeometries
+          });
+        }
+      }
+
+      street.stretches = filteredStretches;
+    }
+
+    return streets;
+  }
+
+  private formatDate(date: Date): string {
+    if (date.getTime() === 0) return `Nessuna data disponibile`;
+
+    const giorno = String(date.getDate()).padStart(2, '0');
+    const mese = String(date.getMonth() + 1).padStart(2, '0');
+    const anno = date.getFullYear();
+    const ore = String(date.getHours()).padStart(2, '0');
+    const min = String(date.getMinutes()).padStart(2, '0');
+
+    return `${giorno}/${mese}/${anno} – ${ore}:${min}`;
+  }
 
   private downloadDataset(): void {
     this.dataManagerService.downloadParsedDataset();
   }
 
-  
   private getColoreByDataPulizia(start: Date): string {
     if (start.getTime() === 0) return 'grey';
 
@@ -74,20 +134,7 @@ export class MapComponent implements OnInit {
 
     const diff = Math.floor((giornoNotifica.getTime() - oggi.getTime()) / (1000 * 60 * 60 * 24));
     if (diff < 1) return 'red';
-    if (diff <= 6) return 'orange';
+    if (diff <= 2) return 'orange';
     return 'green';
   }
-
-  private formatPopup(streetName: string, data: Date): string {
-    if (data.getTime() === 0) return `📍 ${streetName}<br>Nessuna data disponibile`;
-
-    const giorno = String(data.getDate()).padStart(2, '0');
-    const mese = String(data.getMonth() + 1).padStart(2, '0');
-    const anno = data.getFullYear();
-    const ore = String(data.getHours()).padStart(2, '0');
-    const min = String(data.getMinutes()).padStart(2, '0');
-
-    return `📍 ${streetName}<br>Prossima pulizia: ${giorno}/${mese}/${anno} – ${ore}:${min}`;
-  }
-
 }

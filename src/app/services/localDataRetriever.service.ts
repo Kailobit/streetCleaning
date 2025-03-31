@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { LocalEndpoints, RESPONSE_TYPE_TEXT } from '../utils/stringCostantsUtil';
-import { StreetCleaningSegment } from './kml-parser.service';
+import { Street } from './kml-parser.service';
 
 @Injectable({
   providedIn: 'root'
@@ -15,8 +15,8 @@ export class LocalDataRetrieverService {
     return this.http.get(LocalEndpoints.getDatasetFile, { responseType: RESPONSE_TYPE_TEXT });
   }
 
-  public getStreetCleaningData(): Observable<StreetCleaningSegment[]> {
-    return this.http.get<StreetCleaningSegment[]>(LocalEndpoints.getStreetCleaningDataFile);
+  public getStreetCleaningData(): Observable<Street[]> {
+    return this.http.get<Street[]>(LocalEndpoints.getStreetCleaningDataFile);
   }
   
 }
